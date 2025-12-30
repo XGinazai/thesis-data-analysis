@@ -1,0 +1,1124 @@
+[2025-12-29T18:29:16.563115] ESP32: testConnection - starting
+[2025-12-29T18:29:18.180636] ESP32: testConnection - finished status=200
+[2025-12-29T18:29:21.638573] SCENE: initialize - starting
+[2025-12-29T18:29:22.120541] SCENE: initialize - finished
+[2025-12-29T18:29:25.428165] ESP32: capture - starting
+[2025-12-29T18:29:25.646733] ESP32: capture - finished (17391 bytes)
+[2025-12-29T18:29:25.653748] SCENE: detectScene - starting
+[2025-12-29T18:29:26.045672] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:29:26.338148] SCENE: running inference
+[2025-12-29T18:29:32.684727] SCENE: finished inference
+[2025-12-29T18:29:32.752895] SCENE: classFrequency - error: no known object/class was found
+[2025-12-29T18:29:32.765650] SCENE: result - unknown with confidence 0.000
+[2025-12-29T18:29:32.767799] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:29:32.771370] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:29:32.786957] TTS: converted output to speech
+[2025-12-29T18:29:34.226014] ESP32: capture - starting
+[2025-12-29T18:29:34.758295] ESP32: capture - finished (17883 bytes)
+[2025-12-29T18:29:34.774226] SCENE: detectScene - starting
+[2025-12-29T18:29:35.097302] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:29:35.459559] SCENE: running inference
+[2025-12-29T18:29:40.965429] SCENE: finished inference
+[2025-12-29T18:29:41.031690] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:29:41.036074] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 1.26% | Pixels: 3399/270400
+[2025-12-29T18:29:41.039209] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:29:41.041952] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 1.3%)
+[2025-12-29T18:29:41.047326] SCENE: result - tv_monitor with confidence 0.013
+[2025-12-29T18:29:41.069429] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:29:41.087946] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:29:41.101439] TTS: converted output to speech
+[2025-12-29T18:29:44.999620] ESP32: capture - starting
+[2025-12-29T18:29:45.338695] ESP32: capture - finished (36461 bytes)
+[2025-12-29T18:29:45.353752] SCENE: detectScene - starting
+[2025-12-29T18:29:45.620098] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:29:45.840609] SCENE: running inference
+[2025-12-29T18:29:51.285914] SCENE: finished inference
+[2025-12-29T18:29:51.326068] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:29:51.338256] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 0.49% | Pixels: 1320/270400
+[2025-12-29T18:29:51.359245] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:29:51.364072] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 0.5%)
+[2025-12-29T18:29:51.381277] SCENE: result - tv_monitor with confidence 0.005
+[2025-12-29T18:29:51.402653] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:29:51.408401] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:29:51.424111] TTS: converted output to speech
+[2025-12-29T18:29:53.519249] ESP32: capture - starting
+[2025-12-29T18:29:54.011258] ESP32: capture - finished (28440 bytes)
+[2025-12-29T18:29:54.026706] SCENE: detectScene - starting
+[2025-12-29T18:29:54.166542] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:29:54.484074] SCENE: running inference
+[2025-12-29T18:30:00.060946] SCENE: finished inference
+[2025-12-29T18:30:00.114008] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:30:00.123599] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 5.09% | Pixels: 13775/270400
+[2025-12-29T18:30:00.133474] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:30:00.138283] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 5.1%)
+[2025-12-29T18:30:00.141458] SCENE: result - tv_monitor with confidence 0.051
+[2025-12-29T18:30:00.151767] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:30:00.155139] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:30:00.170269] TTS: converted output to speech
+[2025-12-29T18:30:02.237826] ESP32: capture - starting
+[2025-12-29T18:30:02.586006] ESP32: capture - finished (28329 bytes)
+[2025-12-29T18:30:02.598560] SCENE: detectScene - starting
+[2025-12-29T18:30:02.731085] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:30:03.020244] SCENE: running inference
+[2025-12-29T18:30:08.588369] SCENE: finished inference
+[2025-12-29T18:30:08.667671] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:30:08.678333] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 5.53% | Pixels: 14958/270400
+[2025-12-29T18:30:08.681428] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:30:08.691115] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 5.5%)
+[2025-12-29T18:30:08.699164] SCENE: result - tv_monitor with confidence 0.055
+[2025-12-29T18:30:08.710135] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:30:08.714086] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:30:08.730755] TTS: converted output to speech
+[2025-12-29T18:30:10.214002] ESP32: capture - starting
+[2025-12-29T18:30:10.666678] ESP32: capture - finished (27724 bytes)
+[2025-12-29T18:30:10.679541] SCENE: detectScene - starting
+[2025-12-29T18:30:10.816358] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:30:11.116442] SCENE: running inference
+[2025-12-29T18:30:16.593979] SCENE: finished inference
+[2025-12-29T18:30:16.628787] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:30:16.645473] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 12.08% | Pixels: 32667/270400
+[2025-12-29T18:30:16.662885] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:30:16.679365] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 12.1%)
+[2025-12-29T18:30:16.686453] SCENE: result - tv_monitor with confidence 0.121
+[2025-12-29T18:30:16.694234] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:30:16.726260] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:30:16.790254] TTS: converted output to speech
+[2025-12-29T18:30:28.737817] ESP32: capture - starting
+[2025-12-29T18:30:29.331433] ESP32: capture - finished (33311 bytes)
+[2025-12-29T18:30:29.335050] SCENE: detectScene - starting
+[2025-12-29T18:30:29.455351] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:30:29.754097] SCENE: running inference
+[2025-12-29T18:30:35.280757] SCENE: finished inference
+[2025-12-29T18:30:35.317212] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:30:35.325034] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 14.76% | Pixels: 39916/270400
+[2025-12-29T18:30:35.335993] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:30:35.339410] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 14.8%)
+[2025-12-29T18:30:35.342794] SCENE: result - tv_monitor with confidence 0.148
+[2025-12-29T18:30:35.352667] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:30:35.355169] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:30:35.365558] TTS: converted output to speech
+[2025-12-29T18:30:36.515592] ESP32: capture - starting
+[2025-12-29T18:30:36.922349] ESP32: capture - finished (33860 bytes)
+[2025-12-29T18:30:36.927933] SCENE: detectScene - starting
+[2025-12-29T18:30:37.178051] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:30:37.405582] SCENE: running inference
+[2025-12-29T18:30:43.004025] SCENE: finished inference
+[2025-12-29T18:30:43.040776] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:30:43.049625] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 6.51% | Pixels: 17613/270400
+[2025-12-29T18:30:43.052553] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:30:43.062562] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 6.5%)
+[2025-12-29T18:30:43.079462] SCENE: result - tv_monitor with confidence 0.065
+[2025-12-29T18:30:43.082547] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:30:43.085113] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:30:43.104580] TTS: converted output to speech
+[2025-12-29T18:30:43.923253] ESP32: capture - starting
+[2025-12-29T18:30:44.509129] ESP32: capture - finished (31104 bytes)
+[2025-12-29T18:30:44.512766] SCENE: detectScene - starting
+[2025-12-29T18:30:44.629473] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:30:44.952088] SCENE: running inference
+[2025-12-29T18:30:50.506226] SCENE: finished inference
+[2025-12-29T18:30:50.543379] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:30:50.564873] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 23.66% | Pixels: 63986/270400
+[2025-12-29T18:30:50.571214] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:30:50.574410] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 23.7%)
+[2025-12-29T18:30:50.583445] SCENE: result - tv_monitor with confidence 0.237
+[2025-12-29T18:30:50.586621] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:30:50.590192] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:30:50.607372] TTS: converted output to speech
+[2025-12-29T18:30:55.060028] ESP32: capture - starting
+[2025-12-29T18:30:55.639208] ESP32: capture - finished (29858 bytes)
+[2025-12-29T18:30:55.647186] SCENE: detectScene - starting
+[2025-12-29T18:30:55.763556] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:30:56.084946] SCENE: running inference
+[2025-12-29T18:31:01.502722] SCENE: finished inference
+[2025-12-29T18:31:01.539918] SCENE: classFrequency - error: no known object/class was found
+[2025-12-29T18:31:01.548001] SCENE: result - unknown with confidence 0.000
+[2025-12-29T18:31:01.563465] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:31:01.571857] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:31:01.579230] TTS: converted output to speech
+[2025-12-29T18:31:04.506362] ESP32: capture - starting
+[2025-12-29T18:31:04.720980] ESP32: capture - finished (32205 bytes)
+[2025-12-29T18:31:04.726396] SCENE: detectScene - starting
+[2025-12-29T18:31:04.959090] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:31:05.163602] SCENE: running inference
+[2025-12-29T18:31:10.621932] SCENE: finished inference
+[2025-12-29T18:31:10.660367] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:31:10.668504] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 21.70% | Pixels: 58689/270400
+[2025-12-29T18:31:10.671077] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:31:10.700261] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 21.7%)
+[2025-12-29T18:31:10.703466] SCENE: result - tv_monitor with confidence 0.217
+[2025-12-29T18:31:10.716791] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:31:10.750137] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:31:10.795059] TTS: converted output to speech
+[2025-12-29T18:31:12.124818] ESP32: capture - starting
+[2025-12-29T18:31:12.319095] ESP32: capture - finished (31093 bytes)
+[2025-12-29T18:31:12.323458] SCENE: detectScene - starting
+[2025-12-29T18:31:12.560664] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:31:12.742566] SCENE: running inference
+[2025-12-29T18:31:18.340810] SCENE: finished inference
+[2025-12-29T18:31:18.380043] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:31:18.390141] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 24.61% | Pixels: 66555/270400
+[2025-12-29T18:31:18.394510] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:31:18.397018] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 24.6%)
+[2025-12-29T18:31:18.399084] SCENE: result - tv_monitor with confidence 0.246
+[2025-12-29T18:31:18.400965] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:31:18.402787] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:31:18.406969] TTS: converted output to speech
+[2025-12-29T18:31:19.816322] ESP32: capture - starting
+[2025-12-29T18:31:20.414474] ESP32: capture - finished (34524 bytes)
+[2025-12-29T18:31:20.416339] SCENE: detectScene - starting
+[2025-12-29T18:31:20.542775] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:31:20.822161] SCENE: running inference
+[2025-12-29T18:31:26.493772] SCENE: finished inference
+[2025-12-29T18:31:26.529346] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:31:26.537695] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 17.87% | Pixels: 48326/270400
+[2025-12-29T18:31:26.541541] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:31:26.544121] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 17.9%)
+[2025-12-29T18:31:26.546866] SCENE: result - tv_monitor with confidence 0.179
+[2025-12-29T18:31:26.549429] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:31:26.574767] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:31:26.584601] TTS: converted output to speech
+[2025-12-29T18:31:29.063084] ESP32: capture - starting
+[2025-12-29T18:31:29.510399] ESP32: capture - finished (34166 bytes)
+[2025-12-29T18:31:29.524397] SCENE: detectScene - starting
+[2025-12-29T18:31:29.662374] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:31:29.951366] SCENE: running inference
+[2025-12-29T18:31:35.474054] SCENE: finished inference
+[2025-12-29T18:31:35.516073] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:31:35.522722] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 22.02% | Pixels: 59538/270400
+[2025-12-29T18:31:35.524921] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:31:35.527406] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 22.0%)
+[2025-12-29T18:31:35.530118] SCENE: result - tv_monitor with confidence 0.220
+[2025-12-29T18:31:35.533493] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:31:35.537336] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:31:35.559564] TTS: converted output to speech
+[2025-12-29T18:31:42.249896] ESP32: capture - starting
+[2025-12-29T18:31:42.619806] ESP32: capture - finished (33845 bytes)
+[2025-12-29T18:31:42.631391] SCENE: detectScene - starting
+[2025-12-29T18:31:42.766843] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:31:43.027713] SCENE: running inference
+[2025-12-29T18:31:48.456743] SCENE: finished inference
+[2025-12-29T18:31:48.492169] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:31:48.499214] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 18.21% | Pixels: 49249/270400
+[2025-12-29T18:31:48.501836] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:31:48.504428] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 18.2%)
+[2025-12-29T18:31:48.507632] SCENE: result - tv_monitor with confidence 0.182
+[2025-12-29T18:31:48.520605] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:31:48.524091] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:31:48.531558] TTS: converted output to speech
+[2025-12-29T18:31:50.452343] ESP32: capture - starting
+[2025-12-29T18:31:50.712648] ESP32: capture - finished (32559 bytes)
+[2025-12-29T18:31:50.717129] SCENE: detectScene - starting
+[2025-12-29T18:31:50.951014] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:31:51.133989] SCENE: running inference
+[2025-12-29T18:31:56.845237] SCENE: finished inference
+[2025-12-29T18:31:56.883421] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:31:56.893754] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 19.28% | Pixels: 52121/270400
+[2025-12-29T18:31:56.911167] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:31:56.919628] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 19.3%)
+[2025-12-29T18:31:56.924608] SCENE: result - tv_monitor with confidence 0.193
+[2025-12-29T18:31:56.937516] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:31:56.941701] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:31:56.964522] TTS: converted output to speech
+[2025-12-29T18:31:59.135913] ESP32: capture - starting
+[2025-12-29T18:31:59.289029] ESP32: capture - finished (23350 bytes)
+[2025-12-29T18:31:59.293401] SCENE: detectScene - starting
+[2025-12-29T18:31:59.528671] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:31:59.721690] SCENE: running inference
+[2025-12-29T18:32:05.354747] SCENE: finished inference
+[2025-12-29T18:32:05.393020] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:32:05.404154] SCENE: PREDICTION - Class: cat (ID: 8) | Confidence: 0.40% | Pixels: 1085/270400
+[2025-12-29T18:32:05.421147] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:32:05.433476] SCENE: DOMINANT CLASS - cat (ID: 8, 0.4%)
+[2025-12-29T18:32:05.440688] SCENE: result - cat with confidence 0.004
+[2025-12-29T18:32:05.469011] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:32:05.493377] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:32:05.507081] TTS: converted output to speech
+[2025-12-29T18:32:08.197194] ESP32: capture - starting
+[2025-12-29T18:32:08.362483] ESP32: capture - finished (26341 bytes)
+[2025-12-29T18:32:08.367115] SCENE: detectScene - starting
+[2025-12-29T18:32:08.596038] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:32:08.791042] SCENE: running inference
+[2025-12-29T18:32:14.318718] SCENE: finished inference
+[2025-12-29T18:32:14.355205] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:32:14.364841] SCENE: PREDICTION - Class: person (ID: 15) | Confidence: 10.65% | Pixels: 28799/270400
+[2025-12-29T18:32:14.380869] SCENE: PREDICTION - Class: chair (ID: 9) | Confidence: 6.65% | Pixels: 17975/270400
+[2025-12-29T18:32:14.392824] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:32:14.396700] SCENE: DOMINANT CLASS - person (ID: 15, 10.7%)
+[2025-12-29T18:32:14.409721] SCENE: result - person with confidence 0.107
+[2025-12-29T18:32:14.427182] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:32:14.442466] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:32:14.476170] TTS: converted output to speech
+[2025-12-29T18:32:17.444784] ESP32: capture - starting
+[2025-12-29T18:32:17.970932] ESP32: capture - finished (25876 bytes)
+[2025-12-29T18:32:17.982735] SCENE: detectScene - starting
+[2025-12-29T18:32:18.136407] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:32:18.422028] SCENE: running inference
+[2025-12-29T18:32:23.909962] SCENE: finished inference
+[2025-12-29T18:32:23.956037] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:32:23.963052] SCENE: PREDICTION - Class: chair (ID: 9) | Confidence: 8.91% | Pixels: 24099/270400
+[2025-12-29T18:32:23.965164] SCENE: PREDICTION - Class: sofa (ID: 18) | Confidence: 7.09% | Pixels: 19171/270400
+[2025-12-29T18:32:23.988467] SCENE: PREDICTION - Class: person (ID: 15) | Confidence: 4.57% | Pixels: 12360/270400
+[2025-12-29T18:32:23.991479] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:32:23.994077] SCENE: DOMINANT CLASS - chair (ID: 9, 8.9%)
+[2025-12-29T18:32:23.996424] SCENE: result - chair with confidence 0.089
+[2025-12-29T18:32:24.003140] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:32:24.005759] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:32:24.014387] TTS: converted output to speech
+[2025-12-29T18:32:27.012310] ESP32: capture - starting
+[2025-12-29T18:32:27.588657] ESP32: capture - finished (25283 bytes)
+[2025-12-29T18:32:27.591859] SCENE: detectScene - starting
+[2025-12-29T18:32:27.711545] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:32:27.956741] SCENE: running inference
+[2025-12-29T18:32:33.686182] SCENE: finished inference
+[2025-12-29T18:32:33.725814] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:32:33.733641] SCENE: PREDICTION - Class: person (ID: 15) | Confidence: 8.12% | Pixels: 21965/270400
+[2025-12-29T18:32:33.735340] SCENE: PREDICTION - Class: dining_table (ID: 11) | Confidence: 1.33% | Pixels: 3587/270400
+[2025-12-29T18:32:33.737176] SCENE: PREDICTION - Class: chair (ID: 9) | Confidence: 0.11% | Pixels: 297/270400
+[2025-12-29T18:32:33.738930] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:32:33.740620] SCENE: DOMINANT CLASS - person (ID: 15, 8.1%)
+[2025-12-29T18:32:33.762356] SCENE: result - person with confidence 0.081
+[2025-12-29T18:32:33.765513] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:32:33.781617] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:32:33.799638] TTS: converted output to speech
+[2025-12-29T18:34:02.588397] ESP32: testConnection - starting
+[2025-12-29T18:34:04.057189] ESP32: testConnection - finished status=200
+[2025-12-29T18:35:20.848453] SCENE: initialize - starting
+[2025-12-29T18:35:21.249406] SCENE: initialize - finished
+[2025-12-29T18:35:28.068480] ESP32: capture - starting
+[2025-12-29T18:35:28.190231] ESP32: capture - finished (16024 bytes)
+[2025-12-29T18:35:28.210159] SCENE: detectScene - starting
+[2025-12-29T18:35:28.485378] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:35:28.965893] SCENE: running inference
+[2025-12-29T18:35:35.286265] SCENE: finished inference
+[2025-12-29T18:35:35.351596] SCENE: classFrequency - error: no known object/class was found
+[2025-12-29T18:35:35.369516] SCENE: result - unknown with confidence 0.000
+[2025-12-29T18:35:35.381146] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:35:35.386282] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:35:35.398021] TTS: converted output to speech
+[2025-12-29T18:35:36.980259] ESP32: capture - starting
+[2025-12-29T18:35:37.262242] ESP32: capture - finished (16045 bytes)
+[2025-12-29T18:35:37.279467] SCENE: detectScene - starting
+[2025-12-29T18:35:37.582449] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:35:37.851147] SCENE: running inference
+[2025-12-29T18:35:43.441942] SCENE: finished inference
+[2025-12-29T18:35:43.528983] SCENE: classFrequency - error: no known object/class was found
+[2025-12-29T18:35:43.541348] SCENE: result - unknown with confidence 0.000
+[2025-12-29T18:35:43.556933] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:35:43.580839] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:35:43.601839] TTS: converted output to speech
+[2025-12-29T18:35:46.600191] ESP32: capture - starting
+[2025-12-29T18:35:46.868436] ESP32: capture - finished (31784 bytes)
+[2025-12-29T18:35:46.882446] SCENE: detectScene - starting
+[2025-12-29T18:35:47.034245] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:35:47.251933] SCENE: running inference
+[2025-12-29T18:35:52.791618] SCENE: finished inference
+[2025-12-29T18:35:52.834350] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:35:52.837822] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 3.06% | Pixels: 8262/270400
+[2025-12-29T18:35:52.840369] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:35:52.842598] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 3.1%)
+[2025-12-29T18:35:52.846776] SCENE: result - tv_monitor with confidence 0.031
+[2025-12-29T18:35:52.849344] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:35:52.858882] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:35:52.866664] TTS: converted output to speech
+[2025-12-29T18:35:55.012918] ESP32: capture - starting
+[2025-12-29T18:35:55.475693] ESP32: capture - finished (38796 bytes)
+[2025-12-29T18:35:55.485006] SCENE: detectScene - starting
+[2025-12-29T18:35:55.608758] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:35:55.924668] SCENE: running inference
+[2025-12-29T18:36:01.435690] SCENE: finished inference
+[2025-12-29T18:36:01.488850] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:36:01.497928] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 26.68% | Pixels: 72141/270400
+[2025-12-29T18:36:01.500887] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:36:01.503142] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 26.7%)
+[2025-12-29T18:36:01.515063] SCENE: result - tv_monitor with confidence 0.267
+[2025-12-29T18:36:01.518110] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:36:01.531572] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:36:01.539023] TTS: converted output to speech
+[2025-12-29T18:36:02.667800] ESP32: capture - starting
+[2025-12-29T18:36:03.074323] ESP32: capture - finished (39690 bytes)
+[2025-12-29T18:36:03.078279] SCENE: detectScene - starting
+[2025-12-29T18:36:03.309237] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:36:03.527895] SCENE: running inference
+[2025-12-29T18:36:09.147669] SCENE: finished inference
+[2025-12-29T18:36:09.223668] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:36:09.236162] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 10.57% | Pixels: 28591/270400
+[2025-12-29T18:36:09.252983] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:36:09.267231] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 10.6%)
+[2025-12-29T18:36:09.271451] SCENE: result - tv_monitor with confidence 0.106
+[2025-12-29T18:36:09.281965] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:36:09.285807] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:36:09.300979] TTS: converted output to speech
+[2025-12-29T18:36:12.458367] ESP32: capture - starting
+[2025-12-29T18:36:12.676248] ESP32: capture - finished (34536 bytes)
+[2025-12-29T18:36:12.687430] SCENE: detectScene - starting
+[2025-12-29T18:36:12.823561] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:36:13.133651] SCENE: running inference
+[2025-12-29T18:36:18.610462] SCENE: finished inference
+[2025-12-29T18:36:18.648910] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:36:18.664045] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 25.97% | Pixels: 70217/270400
+[2025-12-29T18:36:18.670710] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:36:18.674065] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 26.0%)
+[2025-12-29T18:36:18.684214] SCENE: result - tv_monitor with confidence 0.260
+[2025-12-29T18:36:18.688370] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:36:18.699748] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:36:18.706231] TTS: converted output to speech
+[2025-12-29T18:36:21.600448] ESP32: capture - starting
+[2025-12-29T18:36:21.792098] ESP32: capture - finished (32841 bytes)
+[2025-12-29T18:36:21.794169] SCENE: detectScene - starting
+[2025-12-29T18:36:21.916218] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:36:22.368366] SCENE: running inference
+[2025-12-29T18:36:27.869472] SCENE: finished inference
+[2025-12-29T18:36:27.907430] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:36:27.910866] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 18.17% | Pixels: 49139/270400
+[2025-12-29T18:36:27.918110] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:36:27.924654] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 18.2%)
+[2025-12-29T18:36:27.927728] SCENE: result - tv_monitor with confidence 0.182
+[2025-12-29T18:36:27.930652] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:36:27.934198] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:36:27.940112] TTS: converted output to speech
+[2025-12-29T18:36:30.541682] ESP32: capture - starting
+[2025-12-29T18:36:30.878080] ESP32: capture - finished (39226 bytes)
+[2025-12-29T18:36:30.886830] SCENE: detectScene - starting
+[2025-12-29T18:36:31.019264] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:36:31.331955] SCENE: running inference
+[2025-12-29T18:36:36.797011] SCENE: finished inference
+[2025-12-29T18:36:36.831895] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:36:36.835763] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 33.29% | Pixels: 90014/270400
+[2025-12-29T18:36:36.854288] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:36:36.869317] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 33.3%)
+[2025-12-29T18:36:36.885163] SCENE: result - tv_monitor with confidence 0.333
+[2025-12-29T18:36:36.906485] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:36:36.917117] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:36:36.971372] TTS: converted output to speech
+[2025-12-29T18:36:38.437684] ESP32: capture - starting
+[2025-12-29T18:36:39.006682] ESP32: capture - finished (39498 bytes)
+[2025-12-29T18:36:39.009860] SCENE: detectScene - starting
+[2025-12-29T18:36:39.129263] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:36:39.449709] SCENE: running inference
+[2025-12-29T18:36:45.015470] SCENE: finished inference
+[2025-12-29T18:36:45.050191] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:36:45.055586] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 23.57% | Pixels: 63722/270400
+[2025-12-29T18:36:45.058836] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:36:45.061668] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 23.6%)
+[2025-12-29T18:36:45.075107] SCENE: result - tv_monitor with confidence 0.236
+[2025-12-29T18:36:45.078386] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:36:45.087905] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:36:45.095919] TTS: converted output to speech
+[2025-12-29T18:36:46.612517] ESP32: capture - starting
+[2025-12-29T18:36:47.199065] ESP32: capture - finished (41292 bytes)
+[2025-12-29T18:36:47.204350] SCENE: detectScene - starting
+[2025-12-29T18:36:47.325083] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:36:47.650268] SCENE: running inference
+[2025-12-29T18:36:53.247341] SCENE: finished inference
+[2025-12-29T18:36:53.285369] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:36:53.296195] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 24.71% | Pixels: 66823/270400
+[2025-12-29T18:36:53.299722] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:36:53.302858] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 24.7%)
+[2025-12-29T18:36:53.306297] SCENE: result - tv_monitor with confidence 0.247
+[2025-12-29T18:36:53.309947] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:36:53.325918] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:36:53.340300] TTS: converted output to speech
+[2025-12-29T18:36:55.124381] ESP32: capture - starting
+[2025-12-29T18:36:55.307837] ESP32: capture - finished (40405 bytes)
+[2025-12-29T18:36:55.312312] SCENE: detectScene - starting
+[2025-12-29T18:36:55.540131] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:36:55.727335] SCENE: running inference
+[2025-12-29T18:37:01.189246] SCENE: finished inference
+[2025-12-29T18:37:01.227058] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:01.232600] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 19.26% | Pixels: 52082/270400
+[2025-12-29T18:37:01.236104] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:01.238683] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 19.3%)
+[2025-12-29T18:37:01.247892] SCENE: result - tv_monitor with confidence 0.193
+[2025-12-29T18:37:01.257380] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:37:01.262710] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:37:01.295068] TTS: converted output to speech
+[2025-12-29T18:37:02.716593] ESP32: capture - starting
+[2025-12-29T18:37:02.923840] ESP32: capture - finished (40590 bytes)
+[2025-12-29T18:37:02.937270] SCENE: detectScene - starting
+[2025-12-29T18:37:03.081326] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:37:03.371006] SCENE: running inference
+[2025-12-29T18:37:08.892031] SCENE: finished inference
+[2025-12-29T18:37:08.929501] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:08.935109] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 14.86% | Pixels: 40177/270400
+[2025-12-29T18:37:08.952366] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:08.964493] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 14.9%)
+[2025-12-29T18:37:08.968730] SCENE: result - tv_monitor with confidence 0.149
+[2025-12-29T18:37:08.977332] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:37:08.980643] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:37:08.987055] TTS: converted output to speech
+[2025-12-29T18:37:11.658257] ESP32: capture - starting
+[2025-12-29T18:37:12.011927] ESP32: capture - finished (40034 bytes)
+[2025-12-29T18:37:12.017390] SCENE: detectScene - starting
+[2025-12-29T18:37:12.250313] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:37:12.457077] SCENE: running inference
+[2025-12-29T18:37:17.927206] SCENE: finished inference
+[2025-12-29T18:37:17.963120] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:17.970968] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 26.39% | Pixels: 71372/270400
+[2025-12-29T18:37:17.974009] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:17.976862] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 26.4%)
+[2025-12-29T18:37:17.979559] SCENE: result - tv_monitor with confidence 0.264
+[2025-12-29T18:37:17.984182] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:37:18.008158] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:37:18.014109] TTS: converted output to speech
+[2025-12-29T18:37:20.259866] ESP32: capture - starting
+[2025-12-29T18:37:20.604129] ESP32: capture - finished (36400 bytes)
+[2025-12-29T18:37:20.610162] SCENE: detectScene - starting
+[2025-12-29T18:37:20.853445] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:37:21.054068] SCENE: running inference
+[2025-12-29T18:37:26.638604] SCENE: finished inference
+[2025-12-29T18:37:26.677001] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:26.686787] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 16.21% | Pixels: 43821/270400
+[2025-12-29T18:37:26.690050] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:26.692862] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 16.2%)
+[2025-12-29T18:37:26.703304] SCENE: result - tv_monitor with confidence 0.162
+[2025-12-29T18:37:26.722678] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:37:26.726652] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:37:26.734105] TTS: converted output to speech
+[2025-12-29T18:37:28.151048] ESP32: capture - starting
+[2025-12-29T18:37:28.768788] ESP32: capture - finished (37811 bytes)
+[2025-12-29T18:37:28.771611] SCENE: detectScene - starting
+[2025-12-29T18:37:28.896810] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:37:29.166517] SCENE: running inference
+[2025-12-29T18:37:34.641421] SCENE: finished inference
+[2025-12-29T18:37:34.676346] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:34.680702] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 4.62% | Pixels: 12479/270400
+[2025-12-29T18:37:34.694700] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:34.702498] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 4.6%)
+[2025-12-29T18:37:34.706539] SCENE: result - tv_monitor with confidence 0.046
+[2025-12-29T18:37:34.709320] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:37:34.710978] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:37:34.714758] TTS: converted output to speech
+[2025-12-29T18:37:37.202453] ESP32: capture - starting
+[2025-12-29T18:37:37.375854] ESP32: capture - finished (37631 bytes)
+[2025-12-29T18:37:37.379861] SCENE: detectScene - starting
+[2025-12-29T18:37:37.626686] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:37:37.826187] SCENE: running inference
+[2025-12-29T18:37:43.339648] SCENE: finished inference
+[2025-12-29T18:37:43.375883] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:43.383841] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 0.30% | Pixels: 803/270400
+[2025-12-29T18:37:43.386018] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:43.388583] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 0.3%)
+[2025-12-29T18:37:43.406297] SCENE: result - tv_monitor with confidence 0.003
+[2025-12-29T18:37:43.412853] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:37:43.416084] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:37:43.423005] TTS: converted output to speech
+[2025-12-29T18:37:44.353151] ESP32: capture - starting
+[2025-12-29T18:37:45.042298] ESP32: capture - finished (35141 bytes)
+[2025-12-29T18:37:45.045574] SCENE: detectScene - starting
+[2025-12-29T18:37:45.269292] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:37:45.460463] SCENE: running inference
+[2025-12-29T18:37:50.985466] SCENE: finished inference
+[2025-12-29T18:37:51.015395] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:51.023386] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 8.26% | Pixels: 22334/270400
+[2025-12-29T18:37:51.025027] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:51.026296] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 8.3%)
+[2025-12-29T18:37:51.041711] SCENE: result - tv_monitor with confidence 0.083
+[2025-12-29T18:37:51.055640] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:37:51.061390] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:37:51.086011] TTS: converted output to speech
+[2025-12-29T18:37:52.400106] ESP32: capture - starting
+[2025-12-29T18:37:52.625450] ESP32: capture - finished (32639 bytes)
+[2025-12-29T18:37:52.629714] SCENE: detectScene - starting
+[2025-12-29T18:37:52.854086] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:37:53.071608] SCENE: running inference
+[2025-12-29T18:37:58.580328] SCENE: finished inference
+[2025-12-29T18:37:58.617388] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:37:58.624759] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 32.01% | Pixels: 86544/270400
+[2025-12-29T18:37:58.627327] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:37:58.630089] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 32.0%)
+[2025-12-29T18:37:58.633507] SCENE: result - tv_monitor with confidence 0.320
+[2025-12-29T18:37:58.637314] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:37:58.647237] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:37:58.676117] TTS: converted output to speech
+[2025-12-29T18:38:00.971007] ESP32: capture - starting
+[2025-12-29T18:38:01.232240] ESP32: capture - finished (41140 bytes)
+[2025-12-29T18:38:01.238353] SCENE: detectScene - starting
+[2025-12-29T18:38:01.482421] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:38:01.679499] SCENE: running inference
+[2025-12-29T18:38:07.239496] SCENE: finished inference
+[2025-12-29T18:38:07.275412] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:38:07.282455] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 16.49% | Pixels: 44593/270400
+[2025-12-29T18:38:07.284666] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:38:07.286711] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 16.5%)
+[2025-12-29T18:38:07.307453] SCENE: result - tv_monitor with confidence 0.165
+[2025-12-29T18:38:07.317953] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:38:07.324140] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:38:07.339404] TTS: converted output to speech
+[2025-12-29T18:38:09.940558] ESP32: capture - starting
+[2025-12-29T18:38:10.338795] ESP32: capture - finished (41412 bytes)
+[2025-12-29T18:38:10.343287] SCENE: detectScene - starting
+[2025-12-29T18:38:10.582871] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:38:10.790004] SCENE: running inference
+[2025-12-29T18:38:16.354680] SCENE: finished inference
+[2025-12-29T18:38:16.392692] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:38:16.401239] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 25.83% | Pixels: 69849/270400
+[2025-12-29T18:38:16.402710] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:38:16.424695] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 25.8%)
+[2025-12-29T18:38:16.433567] SCENE: result - tv_monitor with confidence 0.258
+[2025-12-29T18:38:16.436991] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:38:16.451474] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:38:16.471244] TTS: converted output to speech
+[2025-12-29T18:38:17.779112] ESP32: capture - starting
+[2025-12-29T18:38:18.459823] ESP32: capture - finished (41020 bytes)
+[2025-12-29T18:38:18.462697] SCENE: detectScene - starting
+[2025-12-29T18:38:18.593743] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:38:18.908612] SCENE: running inference
+[2025-12-29T18:38:24.492443] SCENE: finished inference
+[2025-12-29T18:38:24.523290] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:38:24.532994] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 11.33% | Pixels: 30648/270400
+[2025-12-29T18:38:24.536561] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:38:24.560807] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 11.3%)
+[2025-12-29T18:38:24.563887] SCENE: result - tv_monitor with confidence 0.113
+[2025-12-29T18:38:24.566951] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:38:24.576333] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:38:24.582082] TTS: converted output to speech
+[2025-12-29T18:38:26.235287] ESP32: capture - starting
+[2025-12-29T18:38:26.566868] ESP32: capture - finished (40967 bytes)
+[2025-12-29T18:38:26.576049] SCENE: detectScene - starting
+[2025-12-29T18:38:26.719056] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:38:26.993826] SCENE: running inference
+[2025-12-29T18:38:32.462457] SCENE: finished inference
+[2025-12-29T18:38:32.497643] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:38:32.501524] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 24.99% | Pixels: 67570/270400
+[2025-12-29T18:38:32.509100] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:38:32.520710] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 25.0%)
+[2025-12-29T18:38:32.530118] SCENE: result - tv_monitor with confidence 0.250
+[2025-12-29T18:38:32.539582] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:38:32.543754] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:38:32.562898] TTS: converted output to speech
+[2025-12-29T18:38:33.975302] ESP32: capture - starting
+[2025-12-29T18:38:34.180816] ESP32: capture - finished (37377 bytes)
+[2025-12-29T18:38:34.186240] SCENE: detectScene - starting
+[2025-12-29T18:38:34.421197] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:38:34.633303] SCENE: running inference
+[2025-12-29T18:38:40.249378] SCENE: finished inference
+[2025-12-29T18:38:40.288130] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:38:40.298395] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 41.66% | Pixels: 112636/270400
+[2025-12-29T18:38:40.312635] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:38:40.315695] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 41.7%)
+[2025-12-29T18:38:40.327037] SCENE: result - tv_monitor with confidence 0.417
+[2025-12-29T18:38:40.329934] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:38:40.333283] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:38:40.346166] TTS: converted output to speech
+[2025-12-29T18:38:43.530838] ESP32: capture - starting
+[2025-12-29T18:38:43.781033] ESP32: capture - finished (43868 bytes)
+[2025-12-29T18:38:43.786787] SCENE: detectScene - starting
+[2025-12-29T18:38:44.027063] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:38:44.224893] SCENE: running inference
+[2025-12-29T18:38:49.715621] SCENE: finished inference
+[2025-12-29T18:38:49.751810] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:38:49.758630] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 26.52% | Pixels: 71711/270400
+[2025-12-29T18:38:49.766427] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:38:49.777666] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 26.5%)
+[2025-12-29T18:38:49.785671] SCENE: result - tv_monitor with confidence 0.265
+[2025-12-29T18:38:49.788289] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:38:49.791016] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:38:49.809116] TTS: converted output to speech
+[2025-12-29T18:38:51.815280] ESP32: capture - starting
+[2025-12-29T18:38:52.385031] ESP32: capture - finished (44991 bytes)
+[2025-12-29T18:38:52.389658] SCENE: detectScene - starting
+[2025-12-29T18:38:52.520728] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:38:52.795190] SCENE: running inference
+[2025-12-29T18:38:58.297344] SCENE: finished inference
+[2025-12-29T18:38:58.330780] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:38:58.342353] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 24.40% | Pixels: 65988/270400
+[2025-12-29T18:38:58.350948] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:38:58.377594] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 24.4%)
+[2025-12-29T18:38:58.383549] SCENE: result - tv_monitor with confidence 0.244
+[2025-12-29T18:38:58.389632] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:38:58.394100] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:38:58.414428] TTS: converted output to speech
+[2025-12-29T18:39:00.290482] ESP32: capture - starting
+[2025-12-29T18:39:00.483711] ESP32: capture - finished (42361 bytes)
+[2025-12-29T18:39:00.487442] SCENE: detectScene - starting
+[2025-12-29T18:39:00.634417] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:00.911756] SCENE: running inference
+[2025-12-29T18:39:06.437230] SCENE: finished inference
+[2025-12-29T18:39:06.472611] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:39:06.482216] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 30.04% | Pixels: 81221/270400
+[2025-12-29T18:39:06.485747] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:39:06.499631] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 30.0%)
+[2025-12-29T18:39:06.503059] SCENE: result - tv_monitor with confidence 0.300
+[2025-12-29T18:39:06.510129] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:39:06.513201] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:39:06.520410] TTS: converted output to speech
+[2025-12-29T18:39:08.833950] ESP32: capture - starting
+[2025-12-29T18:39:09.067436] ESP32: capture - finished (31844 bytes)
+[2025-12-29T18:39:09.070832] SCENE: detectScene - starting
+[2025-12-29T18:39:09.295097] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:09.489083] SCENE: running inference
+[2025-12-29T18:39:15.063221] SCENE: finished inference
+[2025-12-29T18:39:15.099115] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:39:15.105796] SCENE: PREDICTION - Class: bicycle (ID: 2) | Confidence: 1.03% | Pixels: 2796/270400
+[2025-12-29T18:39:15.108294] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:39:15.110246] SCENE: DOMINANT CLASS - bicycle (ID: 2, 1.0%)
+[2025-12-29T18:39:15.116463] SCENE: result - bicycle with confidence 0.010
+[2025-12-29T18:39:15.126046] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:39:15.128377] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:39:15.139137] TTS: converted output to speech
+[2025-12-29T18:39:17.735351] ESP32: capture - starting
+[2025-12-29T18:39:18.166059] ESP32: capture - finished (37672 bytes)
+[2025-12-29T18:39:18.169282] SCENE: detectScene - starting
+[2025-12-29T18:39:18.310819] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:18.572261] SCENE: running inference
+[2025-12-29T18:39:24.139876] SCENE: finished inference
+[2025-12-29T18:39:24.175291] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:39:24.183900] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 13.59% | Pixels: 36744/270400
+[2025-12-29T18:39:24.186875] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:39:24.195015] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 13.6%)
+[2025-12-29T18:39:24.212051] SCENE: result - tv_monitor with confidence 0.136
+[2025-12-29T18:39:24.214127] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:39:24.216352] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:39:24.223617] TTS: converted output to speech
+[2025-12-29T18:39:26.898320] ESP32: capture - starting
+[2025-12-29T18:39:27.273275] ESP32: capture - finished (39155 bytes)
+[2025-12-29T18:39:27.285415] SCENE: detectScene - starting
+[2025-12-29T18:39:27.436952] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:27.707250] SCENE: running inference
+[2025-12-29T18:39:33.213588] SCENE: finished inference
+[2025-12-29T18:39:33.246093] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:39:33.251662] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 8.47% | Pixels: 22900/270400
+[2025-12-29T18:39:33.253150] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:39:33.254500] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 8.5%)
+[2025-12-29T18:39:33.256104] SCENE: result - tv_monitor with confidence 0.085
+[2025-12-29T18:39:33.257544] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:39:33.278356] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:39:33.295695] TTS: converted output to speech
+[2025-12-29T18:39:35.201861] ESP32: capture - starting
+[2025-12-29T18:39:35.370055] ESP32: capture - finished (42301 bytes)
+[2025-12-29T18:39:35.374906] SCENE: detectScene - starting
+[2025-12-29T18:39:35.513820] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:35.783904] SCENE: running inference
+[2025-12-29T18:39:41.333034] SCENE: finished inference
+[2025-12-29T18:39:41.367618] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:39:41.373383] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 2.39% | Pixels: 6456/270400
+[2025-12-29T18:39:41.379102] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:39:41.387875] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 2.4%)
+[2025-12-29T18:39:41.391226] SCENE: result - tv_monitor with confidence 0.024
+[2025-12-29T18:39:41.397192] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:39:41.400356] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:39:41.411277] TTS: converted output to speech
+[2025-12-29T18:39:42.667163] ESP32: capture - starting
+[2025-12-29T18:39:42.967951] ESP32: capture - finished (37414 bytes)
+[2025-12-29T18:39:42.972997] SCENE: detectScene - starting
+[2025-12-29T18:39:43.117691] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:43.388802] SCENE: running inference
+[2025-12-29T18:39:48.823275] SCENE: finished inference
+[2025-12-29T18:39:48.857888] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:39:48.863942] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 8.96% | Pixels: 24231/270400
+[2025-12-29T18:39:48.865626] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:39:48.867256] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 9.0%)
+[2025-12-29T18:39:48.869198] SCENE: result - tv_monitor with confidence 0.090
+[2025-12-29T18:39:48.871055] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:39:48.895991] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:39:48.904902] TTS: converted output to speech
+[2025-12-29T18:39:51.312619] ESP32: capture - starting
+[2025-12-29T18:39:51.546411] ESP32: capture - finished (38836 bytes)
+[2025-12-29T18:39:51.551796] SCENE: detectScene - starting
+[2025-12-29T18:39:51.774396] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:51.973371] SCENE: running inference
+[2025-12-29T18:39:57.482182] SCENE: finished inference
+[2025-12-29T18:39:57.518759] SCENE: classFrequency - error: no known object/class was found
+[2025-12-29T18:39:57.526402] SCENE: result - unknown with confidence 0.000
+[2025-12-29T18:39:57.529603] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:39:57.550467] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:39:57.559295] TTS: converted output to speech
+[2025-12-29T18:39:58.836765] ESP32: capture - starting
+[2025-12-29T18:39:59.133354] ESP32: capture - finished (44978 bytes)
+[2025-12-29T18:39:59.135775] SCENE: detectScene - starting
+[2025-12-29T18:39:59.352382] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:39:59.537275] SCENE: running inference
+[2025-12-29T18:40:05.170675] SCENE: finished inference
+[2025-12-29T18:40:05.206917] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:40:05.210245] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 2.20% | Pixels: 5958/270400
+[2025-12-29T18:40:05.215810] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:40:05.227266] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 2.2%)
+[2025-12-29T18:40:05.235975] SCENE: result - tv_monitor with confidence 0.022
+[2025-12-29T18:40:05.240203] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:40:05.242530] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:40:05.250364] TTS: converted output to speech
+[2025-12-29T18:40:07.579676] ESP32: capture - starting
+[2025-12-29T18:40:07.718971] ESP32: capture - finished (40776 bytes)
+[2025-12-29T18:40:07.722348] SCENE: detectScene - starting
+[2025-12-29T18:40:07.862465] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:40:08.131925] SCENE: running inference
+[2025-12-29T18:40:13.621220] SCENE: finished inference
+[2025-12-29T18:40:13.654373] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:40:13.661167] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 5.33% | Pixels: 14404/270400
+[2025-12-29T18:40:13.662907] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:40:13.664542] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 5.3%)
+[2025-12-29T18:40:13.666427] SCENE: result - tv_monitor with confidence 0.053
+[2025-12-29T18:40:13.683583] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:40:13.690150] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:40:13.697] TTS: converted output to speech
+[2025-12-29T18:40:15.647625] ESP32: capture - starting
+[2025-12-29T18:40:15.843107] ESP32: capture - finished (42572 bytes)
+[2025-12-29T18:40:15.852393] SCENE: detectScene - starting
+[2025-12-29T18:40:15.994430] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:40:16.255001] SCENE: running inference
+[2025-12-29T18:40:21.862437] SCENE: finished inference
+[2025-12-29T18:40:21.898328] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:40:21.905661] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 13.05% | Pixels: 35280/270400
+[2025-12-29T18:40:21.908507] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:40:21.911369] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 13.0%)
+[2025-12-29T18:40:21.927663] SCENE: result - tv_monitor with confidence 0.130
+[2025-12-29T18:40:21.941249] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:40:21.944515] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:40:21.953678] TTS: converted output to speech
+[2025-12-29T18:40:26.049226] ESP32: capture - starting
+[2025-12-29T18:40:26.435272] ESP32: capture - finished (35118 bytes)
+[2025-12-29T18:40:26.445695] SCENE: detectScene - starting
+[2025-12-29T18:40:26.587323] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:40:26.840917] SCENE: running inference
+[2025-12-29T18:40:32.287793] SCENE: finished inference
+[2025-12-29T18:40:32.322334] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:40:32.328483] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 30.04% | Pixels: 81241/270400
+[2025-12-29T18:40:32.330880] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:40:32.336262] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 30.0%)
+[2025-12-29T18:40:32.346398] SCENE: result - tv_monitor with confidence 0.300
+[2025-12-29T18:40:32.350310] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:40:32.362559] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:40:32.381127] TTS: converted output to speech
+[2025-12-29T18:40:35.761821] ESP32: capture - starting
+[2025-12-29T18:40:36.047780] ESP32: capture - finished (39239 bytes)
+[2025-12-29T18:40:36.052330] SCENE: detectScene - starting
+[2025-12-29T18:40:36.199022] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:40:36.468663] SCENE: running inference
+[2025-12-29T18:40:41.996963] SCENE: finished inference
+[2025-12-29T18:40:42.030766] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:40:42.036124] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 21.54% | Pixels: 58246/270400
+[2025-12-29T18:40:42.038434] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:40:42.041071] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 21.5%)
+[2025-12-29T18:40:42.044732] SCENE: result - tv_monitor with confidence 0.215
+[2025-12-29T18:40:42.049704] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:40:42.065739] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:40:42.085850] TTS: converted output to speech
+[2025-12-29T18:40:44.904251] ESP32: capture - starting
+[2025-12-29T18:40:45.128889] ESP32: capture - finished (32254 bytes)
+[2025-12-29T18:40:45.138387] SCENE: detectScene - starting
+[2025-12-29T18:40:45.281400] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:40:45.546856] SCENE: running inference
+[2025-12-29T18:40:51.239782] SCENE: finished inference
+[2025-12-29T18:40:51.274615] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:40:51.282164] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 3.98% | Pixels: 10764/270400
+[2025-12-29T18:40:51.285294] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:40:51.288368] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 4.0%)
+[2025-12-29T18:40:51.291114] SCENE: result - tv_monitor with confidence 0.040
+[2025-12-29T18:40:51.300226] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:40:51.315600] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:40:51.323958] TTS: converted output to speech
+[2025-12-29T18:40:53.922707] ESP32: capture - starting
+[2025-12-29T18:40:54.226584] ESP32: capture - finished (33642 bytes)
+[2025-12-29T18:40:54.231512] SCENE: detectScene - starting
+[2025-12-29T18:40:54.369806] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:40:54.638401] SCENE: running inference
+[2025-12-29T18:41:00.235111] SCENE: finished inference
+[2025-12-29T18:41:00.269468] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:41:00.276104] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 24.01% | Pixels: 64924/270400
+[2025-12-29T18:41:00.278594] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:41:00.294686] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 24.0%)
+[2025-12-29T18:41:00.305871] SCENE: result - tv_monitor with confidence 0.240
+[2025-12-29T18:41:00.312704] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:41:00.334270] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:41:00.349898] TTS: converted output to speech
+[2025-12-29T18:41:03.312743] ESP32: capture - starting
+[2025-12-29T18:41:03.914185] ESP32: capture - finished (34693 bytes)
+[2025-12-29T18:41:03.917291] SCENE: detectScene - starting
+[2025-12-29T18:41:04.043722] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:41:04.303743] SCENE: running inference
+[2025-12-29T18:41:09.876235] SCENE: finished inference
+[2025-12-29T18:41:09.915962] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:41:09.922433] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 18.55% | Pixels: 50148/270400
+[2025-12-29T18:41:09.925249] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:41:09.927711] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 18.5%)
+[2025-12-29T18:41:09.930478] SCENE: result - tv_monitor with confidence 0.185
+[2025-12-29T18:41:09.946578] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:41:09.957381] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:41:09.964908] TTS: converted output to speech
+[2025-12-29T18:41:13.050330] ESP32: capture - starting
+[2025-12-29T18:41:13.638061] ESP32: capture - finished (34172 bytes)
+[2025-12-29T18:41:13.640801] SCENE: detectScene - starting
+[2025-12-29T18:41:13.774867] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:41:14.035380] SCENE: running inference
+[2025-12-29T18:41:19.558481] SCENE: finished inference
+[2025-12-29T18:41:19.597844] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:41:19.610970] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 24.12% | Pixels: 65211/270400
+[2025-12-29T18:41:19.614850] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:41:19.625395] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 24.1%)
+[2025-12-29T18:41:19.629174] SCENE: result - tv_monitor with confidence 0.241
+[2025-12-29T18:41:19.639650] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:41:19.643775] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:41:19.654249] TTS: converted output to speech
+[2025-12-29T18:41:23.836967] ESP32: capture - starting
+[2025-12-29T18:41:24.248623] ESP32: capture - finished (37843 bytes)
+[2025-12-29T18:41:24.251280] SCENE: detectScene - starting
+[2025-12-29T18:41:24.467334] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:41:24.673768] SCENE: running inference
+[2025-12-29T18:41:30.306480] SCENE: finished inference
+[2025-12-29T18:41:30.341184] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:41:30.347936] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 19.68% | Pixels: 53203/270400
+[2025-12-29T18:41:30.350680] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:41:30.354046] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 19.7%)
+[2025-12-29T18:41:30.357179] SCENE: result - tv_monitor with confidence 0.197
+[2025-12-29T18:41:30.360013] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:41:30.364991] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:41:30.378997] TTS: converted output to speech
+[2025-12-29T18:41:31.760503] ESP32: capture - starting
+[2025-12-29T18:41:32.352680] ESP32: capture - finished (36155 bytes)
+[2025-12-29T18:41:32.355380] SCENE: detectScene - starting
+[2025-12-29T18:41:32.483025] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:41:32.756552] SCENE: running inference
+[2025-12-29T18:41:38.237578] SCENE: finished inference
+[2025-12-29T18:41:38.275911] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:41:38.281309] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 18.47% | Pixels: 49930/270400
+[2025-12-29T18:41:38.284331] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:41:38.285983] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 18.5%)
+[2025-12-29T18:41:38.287893] SCENE: result - tv_monitor with confidence 0.185
+[2025-12-29T18:41:38.299528] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:41:38.302440] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:41:38.311479] TTS: converted output to speech
+[2025-12-29T18:41:39.931295] ESP32: capture - starting
+[2025-12-29T18:41:40.485423] ESP32: capture - finished (37172 bytes)
+[2025-12-29T18:41:40.488926] SCENE: detectScene - starting
+[2025-12-29T18:41:40.617740] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:41:40.888197] SCENE: running inference
+[2025-12-29T18:41:46.419200] SCENE: finished inference
+[2025-12-29T18:41:46.460226] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:41:46.467489] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 18.47% | Pixels: 49938/270400
+[2025-12-29T18:41:46.469793] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:41:46.471295] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 18.5%)
+[2025-12-29T18:41:46.472850] SCENE: result - tv_monitor with confidence 0.185
+[2025-12-29T18:41:46.474218] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:41:46.490437] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:41:46.502363] TTS: converted output to speech
+[2025-12-29T18:41:49.249033] ESP32: capture - starting
+[2025-12-29T18:41:49.583026] ESP32: capture - finished (37860 bytes)
+[2025-12-29T18:41:49.592766] SCENE: detectScene - starting
+[2025-12-29T18:41:49.742549] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:41:50.016679] SCENE: running inference
+[2025-12-29T18:41:55.507118] SCENE: finished inference
+[2025-12-29T18:41:55.543236] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:41:55.550055] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 21.71% | Pixels: 58703/270400
+[2025-12-29T18:41:55.552986] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:41:55.555668] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 21.7%)
+[2025-12-29T18:41:55.558155] SCENE: result - tv_monitor with confidence 0.217
+[2025-12-29T18:41:55.573685] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:41:55.580080] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:41:55.588671] TTS: converted output to speech
+[2025-12-29T18:41:57.782607] ESP32: capture - starting
+[2025-12-29T18:41:58.184307] ESP32: capture - finished (30894 bytes)
+[2025-12-29T18:41:58.188883] SCENE: detectScene - starting
+[2025-12-29T18:41:58.323095] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:41:58.578038] SCENE: running inference
+[2025-12-29T18:42:04.226989] SCENE: finished inference
+[2025-12-29T18:42:04.266756] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:42:04.273374] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 37.15% | Pixels: 100458/270400
+[2025-12-29T18:42:04.275990] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:42:04.278479] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 37.2%)
+[2025-12-29T18:42:04.281365] SCENE: result - tv_monitor with confidence 0.372
+[2025-12-29T18:42:04.284209] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:42:04.303569] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:42:04.317735] TTS: converted output to speech
+[2025-12-29T18:42:06.601698] ESP32: capture - starting
+[2025-12-29T18:42:06.776085] ESP32: capture - finished (32560 bytes)
+[2025-12-29T18:42:06.780560] SCENE: detectScene - starting
+[2025-12-29T18:42:06.916679] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:42:07.196835] SCENE: running inference
+[2025-12-29T18:42:12.861039] SCENE: finished inference
+[2025-12-29T18:42:12.895338] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:42:12.902123] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 36.29% | Pixels: 98120/270400
+[2025-12-29T18:42:12.905109] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:42:12.907839] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 36.3%)
+[2025-12-29T18:42:12.910897] SCENE: result - tv_monitor with confidence 0.363
+[2025-12-29T18:42:12.913903] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:42:12.916997] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:42:12.921686] TTS: converted output to speech
+[2025-12-29T18:42:15.312455] ESP32: capture - starting
+[2025-12-29T18:42:15.876055] ESP32: capture - finished (35040 bytes)
+[2025-12-29T18:42:15.878253] SCENE: detectScene - starting
+[2025-12-29T18:42:16.007093] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:42:16.263501] SCENE: running inference
+[2025-12-29T18:42:21.743098] SCENE: finished inference
+[2025-12-29T18:42:21.782930] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:42:21.788537] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 22.43% | Pixels: 60643/270400
+[2025-12-29T18:42:21.790578] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:42:21.793222] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 22.4%)
+[2025-12-29T18:42:21.796029] SCENE: result - tv_monitor with confidence 0.224
+[2025-12-29T18:42:21.799383] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:42:21.815495] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:42:21.829383] TTS: converted output to speech
+[2025-12-29T18:42:29.602498] ESP32: capture - starting
+[2025-12-29T18:42:29.989057] ESP32: capture - finished (32577 bytes)
+[2025-12-29T18:42:29.992809] SCENE: detectScene - starting
+[2025-12-29T18:42:30.123537] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:42:30.380368] SCENE: running inference
+[2025-12-29T18:42:35.833772] SCENE: finished inference
+[2025-12-29T18:42:35.871672] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:42:35.878266] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 25.33% | Pixels: 68487/270400
+[2025-12-29T18:42:35.881670] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:42:35.885713] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 25.3%)
+[2025-12-29T18:42:35.889038] SCENE: result - tv_monitor with confidence 0.253
+[2025-12-29T18:42:35.892547] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:42:35.906668] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:42:35.919601] TTS: converted output to speech
+[2025-12-29T18:42:37.714275] ESP32: capture - starting
+[2025-12-29T18:42:38.071467] ESP32: capture - finished (35779 bytes)
+[2025-12-29T18:42:38.074781] SCENE: detectScene - starting
+[2025-12-29T18:42:38.280257] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:42:38.478359] SCENE: running inference
+[2025-12-29T18:42:44.050686] SCENE: finished inference
+[2025-12-29T18:42:44.084998] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:42:44.093153] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 8.64% | Pixels: 23361/270400
+[2025-12-29T18:42:44.095969] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:42:44.097671] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 8.6%)
+[2025-12-29T18:42:44.099527] SCENE: result - tv_monitor with confidence 0.086
+[2025-12-29T18:42:44.117857] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:42:44.126998] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:42:44.139147] TTS: converted output to speech
+[2025-12-29T18:42:47.716126] ESP32: capture - starting
+[2025-12-29T18:42:48.166403] ESP32: capture - finished (33873 bytes)
+[2025-12-29T18:42:48.171985] SCENE: detectScene - starting
+[2025-12-29T18:42:48.309055] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:42:48.554325] SCENE: running inference
+[2025-12-29T18:42:53.979642] SCENE: finished inference
+[2025-12-29T18:42:54.017507] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:42:54.024005] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 5.74% | Pixels: 15521/270400
+[2025-12-29T18:42:54.026886] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:42:54.041128] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 5.7%)
+[2025-12-29T18:42:54.044058] SCENE: result - tv_monitor with confidence 0.057
+[2025-12-29T18:42:54.050063] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:42:54.052685] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:42:54.063552] TTS: converted output to speech
+[2025-12-29T18:43:42.780480] ESP32: capture - starting
+[2025-12-29T18:43:45.403375] ESP32: capture - finished (32593 bytes)
+[2025-12-29T18:43:45.408733] SCENE: detectScene - starting
+[2025-12-29T18:43:45.597671] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:43:45.826481] SCENE: running inference
+[2025-12-29T18:43:51.370911] SCENE: finished inference
+[2025-12-29T18:43:51.409077] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:43:51.416443] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 18.14% | Pixels: 49043/270400
+[2025-12-29T18:43:51.419526] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:43:51.429798] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 18.1%)
+[2025-12-29T18:43:51.432128] SCENE: result - tv_monitor with confidence 0.181
+[2025-12-29T18:43:51.433939] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:43:51.435712] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:43:51.444609] TTS: converted output to speech
+[2025-12-29T18:43:55.649567] ESP32: capture - starting
+[2025-12-29T18:43:55.996757] ESP32: capture - finished (31185 bytes)
+[2025-12-29T18:43:56.001610] SCENE: detectScene - starting
+[2025-12-29T18:43:56.132692] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:43:56.383608] SCENE: running inference
+[2025-12-29T18:44:01.853679] SCENE: finished inference
+[2025-12-29T18:44:01.893579] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:44:01.899444] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 20.01% | Pixels: 54105/270400
+[2025-12-29T18:44:01.911978] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:44:01.923439] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 20.0%)
+[2025-12-29T18:44:01.931858] SCENE: result - tv_monitor with confidence 0.200
+[2025-12-29T18:44:01.935039] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:44:01.947055] TTS: converting output to speech - "Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura."
+[2025-12-29T18:44:01.965865] TTS: converted output to speech
+[2025-12-29T18:44:05.628168] ESP32: capture - starting
+[2025-12-29T18:44:06.079363] ESP32: capture - finished (27481 bytes)
+[2025-12-29T18:44:06.082567] SCENE: detectScene - starting
+[2025-12-29T18:44:06.213541] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:44:06.463587] SCENE: running inference
+[2025-12-29T18:44:11.923611] SCENE: finished inference
+[2025-12-29T18:44:11.959155] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:44:11.964542] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 33.70% | Pixels: 91123/270400
+[2025-12-29T18:44:11.969677] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:44:11.982861] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 33.7%)
+[2025-12-29T18:44:11.986343] SCENE: result - tv_monitor with confidence 0.337
+[2025-12-29T18:44:11.989590] SCENE: naturalDescription - Parece haber un televisor o monitor frente a ti.
+[2025-12-29T18:44:11.992891] TTS: converting output to speech - "Parece haber un televisor o monitor frente a ti."
+[2025-12-29T18:44:12.005255] TTS: converted output to speech
+[2025-12-29T18:44:13.903400] ESP32: capture - starting
+[2025-12-29T18:44:14.165795] ESP32: capture - finished (28802 bytes)
+[2025-12-29T18:44:14.175007] SCENE: detectScene - starting
+[2025-12-29T18:44:14.311436] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:44:14.556998] SCENE: running inference
+[2025-12-29T18:44:20.112372] SCENE: finished inference
+[2025-12-29T18:44:20.151874] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:44:20.158778] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 1.04% | Pixels: 2812/270400
+[2025-12-29T18:44:20.161638] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:44:20.176540] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 1.0%)
+[2025-12-29T18:44:20.187646] SCENE: result - tv_monitor with confidence 0.010
+[2025-12-29T18:44:20.190992] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:44:20.195643] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:44:20.209812] TTS: converted output to speech
+[2025-12-29T18:44:25.489810] ESP32: capture - starting
+[2025-12-29T18:44:25.754007] ESP32: capture - finished (28654 bytes)
+[2025-12-29T18:44:25.757783] SCENE: detectScene - starting
+[2025-12-29T18:44:25.956021] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:44:26.155121] SCENE: running inference
+[2025-12-29T18:44:31.565537] SCENE: finished inference
+[2025-12-29T18:44:31.599089] SCENE: classFrequency - error: no known object/class was found
+[2025-12-29T18:44:31.605743] SCENE: result - unknown with confidence 0.000
+[2025-12-29T18:44:31.608640] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:44:31.611453] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:44:31.619435] TTS: converted output to speech
+[2025-12-29T18:50:11.948098] ESP32: capture - starting
+[2025-12-29T18:50:12.715688] ESP32: capture - failed status=500
+[2025-12-29T18:50:16.926509] ESP32: capture - starting
+[2025-12-29T18:50:17.747421] ESP32: capture - failed status=500
+[2025-12-29T18:50:26.657507] ESP32: capture - starting
+[2025-12-29T18:50:27.341224] ESP32: capture - failed status=500
+[2025-12-29T18:50:45.880152] ESP32: capture - starting
+[2025-12-29T18:50:46.115174] ESP32: capture - finished (16900 bytes)
+[2025-12-29T18:50:46.117484] SCENE: detectScene - starting
+[2025-12-29T18:50:46.227187] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:50:46.458402] SCENE: running inference
+[2025-12-29T18:50:51.730792] SCENE: finished inference
+[2025-12-29T18:50:51.772317] SCENE: classFrequency - error: no known object/class was found
+[2025-12-29T18:50:51.777293] SCENE: result - unknown with confidence 0.000
+[2025-12-29T18:50:51.779527] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:50:51.781554] TTS: converting output to speech - "No puedo identificar nada en concreto."
+[2025-12-29T18:50:51.793352] TTS: converted output to speech
+[2025-12-29T18:50:55.784338] TTS: stop - starting
+[2025-12-29T18:50:55.856683] TTS: stop - finished
+[2025-12-29T18:51:02.265443] ESP32: capture - starting
+[2025-12-29T18:51:02.698557] ESP32: capture - finished (18743 bytes)
+[2025-12-29T18:51:02.705320] SCENE: detectScene - starting
+[2025-12-29T18:51:02.906121] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:51:03.126582] SCENE: running inference
+[2025-12-29T18:51:08.584547] ESP32: capture - starting
+[2025-12-29T18:51:08.615206] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:51:08.619551] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 4.22% | Pixels: 11416/270400
+[2025-12-29T18:51:08.621340] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:51:08.622796] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 4.2%)
+[2025-12-29T18:51:08.624317] SCENE: result - tv_monitor with confidence 0.042
+[2025-12-29T18:51:08.628913] SCENE: naturalDescription - No puedo identificar nada en concreto.
+[2025-12-29T18:51:08.804615] ESP32: capture - finished (31328 bytes)
+[2025-12-29T18:51:08.809551] SCENE: detectScene - starting
+[2025-12-29T18:51:09.006312] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:51:09.206070] SCENE: running inference
+[2025-12-29T18:51:14.743715] ESP32: capture - starting
+[2025-12-29T18:51:14.776656] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:51:14.782200] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 27.32% | Pixels: 73864/270400
+[2025-12-29T18:51:14.784122] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:51:14.786811] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 27.3%)
+[2025-12-29T18:51:14.795518] SCENE: result - tv_monitor with confidence 0.273
+[2025-12-29T18:51:14.802325] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:51:15.408923] ESP32: capture - finished (32153 bytes)
+[2025-12-29T18:51:15.410810] SCENE: detectScene - starting
+[2025-12-29T18:51:15.546521] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:51:15.792461] SCENE: running inference
+[2025-12-29T18:51:21.229094] ESP32: capture - starting
+[2025-12-29T18:51:21.268384] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:51:21.276659] TTS: stop - starting
+[2025-12-29T18:51:21.281423] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 27.24% | Pixels: 73660/270400
+[2025-12-29T18:51:21.339912] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:51:21.346259] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 27.2%)
+[2025-12-29T18:51:21.352344] SCENE: result - tv_monitor with confidence 0.272
+[2025-12-29T18:51:21.354250] SCENE: naturalDescription - Posiblemente hay un televisor o monitor en frente, pero no estoy muy segura.
+[2025-12-29T18:51:21.482095] ESP32: capture - finished (37002 bytes)
+[2025-12-29T18:51:21.486055] SCENE: detectScene - starting
+[2025-12-29T18:51:21.619070] SCENE: preprocessing - resizing to 520
+[2025-12-29T18:51:21.867074] SCENE: running inference
+[2025-12-29T18:51:27.288582] SCENE: finished inference
+[2025-12-29T18:51:27.326034] SCENE: ALL PREDICTIONS START
+[2025-12-29T18:51:27.334070] SCENE: PREDICTION - Class: tv_monitor (ID: 20) | Confidence: 12.17% | Pixels: 32911/270400
+[2025-12-29T18:51:27.336268] SCENE: ALL PREDICTIONS END
+[2025-12-29T18:51:27.338352] SCENE: DOMINANT CLASS - tv_monitor (ID: 20, 12.2%)
+[2025-12-29T18:51:27.340272] SCENE: result - tv_monitor with confidence 0.122
+[2025-12-29T18:51:27.359047] SCENE: naturalDescription - No puedo identificar nada en concreto.

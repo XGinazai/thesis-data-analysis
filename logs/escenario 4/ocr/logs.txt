@@ -1,0 +1,7404 @@
+[2025-12-29T23:56:54.394537] ESP32: testConnection - starting
+[2025-12-29T23:56:56.222780] ESP32: testConnection - finished status=200
+[2025-12-29T23:56:57.045482] OCR: initialize - starting
+[2025-12-29T23:56:57.286358] OCR: initialize - finished
+[2025-12-29T23:56:58.075884] ESP32: capture - starting
+[2025-12-29T23:56:58.726366] ESP32: capture - finished (20720 bytes)
+[2025-12-29T23:56:58.735739] OCR: recognizeText - starting
+[2025-12-29T23:56:58.851852] OCR: processing image - 20720 bytes
+[2025-12-29T23:56:59.307573] OCR: original size: 1024x768
+[2025-12-29T23:56:59.452408] OCR: upscaled to: 1024x768
+[2025-12-29T23:56:59.908022] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070619874.png
+[2025-12-29T23:57:00.214373] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:57:07.695843] OCR: finished - result: "-
+
+U
+
+ion and divinization
+
+n reflected tn sexuality m
+
+ly II… sometimes as u sexual renunciatios in e i
+
+á other times, in an cxuggemted eroticidor
+
+which can reach turn into perversion: Therefane.
+
+Ey séxual, the person of this character does nol 5u
+
+pue
+
+p
+
+erolic luve, being so idealized, i5 alimont
+
+one hand with admiring love ml
+
+e
+
+="
+[2025-12-29T23:57:07.712724] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070619874.png
+[2025-12-29T23:57:07.730341] TTS: converting output to speech - "-
+
+U
+
+ion and divinization
+
+n reflected tn sexuality m
+
+ly II… sometimes as u sexual renunciatios in e i
+
+á other times, in an cxuggemted eroticidor
+
+which can reach turn into perversion: Therefane.
+
+Ey séxual, the person of this character does nol 5u
+
+pue
+
+p
+
+erolic luve, being so idealized, i5 alimont
+
+one hand with admiring love ml
+
+e
+
+="
+[2025-12-29T23:57:07.755772] TTS: converted output to speech
+[2025-12-29T23:57:12.384455] ESP32: capture - starting
+[2025-12-29T23:57:12.822508] ESP32: capture - finished (27405 bytes)
+[2025-12-29T23:57:12.827031] OCR: recognizeText - starting
+[2025-12-29T23:57:12.829591] OCR: processing image - 27405 bytes
+[2025-12-29T23:57:13.070258] OCR: original size: 1024x768
+[2025-12-29T23:57:13.092587] OCR: upscaled to: 1024x768
+[2025-12-29T23:57:13.303413] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070633298.png
+[2025-12-29T23:57:13.306667] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:57:15.604750] OCR: finished - result: "D
+
+Idealization and divinization is often reflected in sexuality as a rey
+
+i sitictly human, sometimes as a sexual renuncintion in favor af the
+
+din
+
+relationship, and other times, in an exaggerated eroticism discannes
+
+affectivity, which can reach tum into perversion Therefore, although
+
+extremely sexual, the person of this character does not suppress his
+
+M sex: Mis erotic love, being so idealized, i5 almost impossible lo
+
+u
+
+es il on the one hand with admiring love and. on the otl
+
+—"
+[2025-12-29T23:57:15.609748] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070633298.png
+[2025-12-29T23:57:15.622130] TTS: converting output to speech - "D
+
+Idealization and divinization is often reflected in sexuality as a rey
+
+i sitictly human, sometimes as a sexual renuncintion in favor af the
+
+din
+
+relationship, and other times, in an exaggerated eroticism discannes
+
+affectivity, which can reach tum into perversion Therefore, although
+
+extremely sexual, the person of this character does not suppress his
+
+M sex: Mis erotic love, being so idealized, i5 almost impossible lo
+
+u
+
+es il on the one hand with admiring love and. on the otl
+
+—"
+[2025-12-29T23:57:15.629742] TTS: converted output to speech
+[2025-12-29T23:57:24.019343] ESP32: capture - starting
+[2025-12-29T23:57:24.429669] ESP32: capture - finished (39958 bytes)
+[2025-12-29T23:57:24.433857] OCR: recognizeText - starting
+[2025-12-29T23:57:24.483129] OCR: processing image - 39958 bytes
+[2025-12-29T23:57:24.640647] OCR: original size: 1024x768
+[2025-12-29T23:57:24.645494] OCR: upscaled to: 1024x768
+[2025-12-29T23:57:24.820934] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070644802.png
+[2025-12-29T23:57:24.823217] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:57:27.590290] OCR: finished - result: "ur
+
+Malieamontenies
+
+0n it
+
+“
+
+"
+
+e
+
+-
+
+-
+
+Idealization and divinization is often reflected in sexuality as a rejection of
+
+is
+
+ictly human, sometimes as a sexual renuncie
+
+ation in favor of the divine
+
+-
+
+ted from —
+
+relationship, and other times, in
+
+an exaggerated eroticism disconnegl
+
+affectivity, which can re:
+
+ach turn into perversion. Therefore, although heis
+
+an
+
+extremely sexual, the person of this ch
+
+aracter does not suppress his
+
+in sex: His erotic
+
+lave, being so idealized, is almost impossible to
+
+.
+
+o =
+
+confuses it on the one hand with
+
+admiring love and, on the other- it
+
+overexcitement."
+[2025-12-29T23:57:27.596172] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070644802.png
+[2025-12-29T23:57:27.606430] TTS: converting output to speech - "ur
+
+Malieamontenies
+
+0n it
+
+“
+
+"
+
+e
+
+-
+
+-
+
+Idealization and divinization is often reflected in sexuality as a rejection of
+
+is
+
+ictly human, sometimes as a sexual renuncie
+
+ation in favor of the divine
+
+-
+
+ted from —
+
+relationship, and other times, in
+
+an exaggerated eroticism disconnegl
+
+affectivity, which can re:
+
+ach turn into perversion. Therefore, although heis
+
+an
+
+extremely sexual, the person of this ch
+
+aracter does not suppress his
+
+in sex: His erotic
+
+lave, being so idealized, is almost impossible to
+
+.
+
+o =
+
+confuses it on the one hand with
+
+admiring love and, on the other- it
+
+overexcitement."
+[2025-12-29T23:57:27.614058] TTS: converted output to speech
+[2025-12-29T23:57:34.505361] ESP32: capture - starting
+[2025-12-29T23:57:35.024446] ESP32: capture - finished (37171 bytes)
+[2025-12-29T23:57:35.027241] OCR: recognizeText - starting
+[2025-12-29T23:57:35.028851] OCR: processing image - 37171 bytes
+[2025-12-29T23:57:35.159671] OCR: original size: 1024x768
+[2025-12-29T23:57:35.191940] OCR: upscaled to: 1024x768
+[2025-12-29T23:57:35.366977] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070655355.png
+[2025-12-29T23:57:35.369147] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:57:38.317779] OCR: finished - result: "6
+
+Ea
+
+1
+
+—
+
+—
+
+ction of what :'
+
+1 sexuality as a reje
+
+on is often reflected ir
+
+Idealiz
+
+ation and divimzall
+
+nuneiator
+
+1 in favor of the divine
+
+l
+
+as a sexual
+
+s
+
+is strictly hume
+
+in, sometimes
+
+ism disconnected from
+
+o
+
+) ex:
+
+agger ated erolie
+
+"
+
+relationship, an
+
+dother times, 1n 41
+
+There
+
+fore, although he u E
+
+ach turn 111
+
+to pun'c¡—.mn
+
+affectivity whicl
+
+1 can ref
+
+{ suppress his
+
+| he
+
+son of this €
+
+haracter does no!
+
+1, the per
+
+possible to achieve,
+
+extremely sexua
+
+we, being %0 iden
+
+lized, is almost 11
+
+m
+
+MC
+
+His erotic l
+
+he other, it
+
+n
+
+ad
+
+ring love and, on U
+
+-
+
+u
+
+ye one hand with
+
+—
+
+gonfuses 11 on 1
+
+QVETERL atement
+
+—"
+[2025-12-29T23:57:38.323279] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070655355.png
+[2025-12-29T23:57:38.325835] TTS: converting output to speech - "6
+
+Ea
+
+1
+
+—
+
+—
+
+ction of what :'
+
+1 sexuality as a reje
+
+on is often reflected ir
+
+Idealiz
+
+ation and divimzall
+
+nuneiator
+
+1 in favor of the divine
+
+l
+
+as a sexual
+
+s
+
+is strictly hume
+
+in, sometimes
+
+ism disconnected from
+
+o
+
+) ex:
+
+agger ated erolie
+
+"
+
+relationship, an
+
+dother times, 1n 41
+
+There
+
+fore, although he u E
+
+ach turn 111
+
+to pun'c¡—.mn
+
+affectivity whicl
+
+1 can ref
+
+{ suppress his
+
+| he
+
+son of this €
+
+haracter does no!
+
+1, the per
+
+possible to achieve,
+
+extremely sexua
+
+we, being %0 iden
+
+lized, is almost 11
+
+m
+
+MC
+
+His erotic l
+
+he other, it
+
+n
+
+ad
+
+ring love and, on U
+
+-
+
+u
+
+ye one hand with
+
+—
+
+gonfuses 11 on 1
+
+QVETERL atement
+
+—"
+[2025-12-29T23:57:38.340806] TTS: converted output to speech
+[2025-12-29T23:57:41.961673] ESP32: capture - starting
+[2025-12-29T23:57:42.119215] ESP32: capture - finished (35845 bytes)
+[2025-12-29T23:57:42.134445] OCR: recognizeText - starting
+[2025-12-29T23:57:42.194375] OCR: processing image - 35845 bytes
+[2025-12-29T23:57:42.323412] OCR: original size: 1024x768
+[2025-12-29T23:57:42.339674] OCR: upscaled to: 1024x768
+[2025-12-29T23:57:42.532894] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070662519.png
+[2025-12-29T23:57:42.535754] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:57:46.696440] OCR: finished - result: "E
+
+u
+
+u
+
+sexunlity Y
+
+W £ rejestion of whatt
+
+ed in
+
+—
+
+divinizalt
+
+on ia olten reÑoc
+
+tion n fava!
+
+r of the divine
+
+¡dentization d
+
+cexual rentincia
+
+ted from
+
+n
+
+¡sometimes 15 1
+
+¡ disconnes
+
+1a strictly uu
+
+in an eXMEE
+
+gerated grotic 191
+
+¡ttroongata he 18
+
+and other VM
+
+P herelone, Y
+
+vi i
+
+1e intionaip
+
+pe
+
+rvermon
+
+wresa hin GM
+
+wint
+
+h can
+
+rench tun into
+
+ol SUPY
+
+aitectivity
+
+vernon ol this ¢
+
+harneter does v
+
+achieve,
+
+wexunl, the y
+
+QR
+
+¡muuhh o
+
+extremely
+
+heing 80 “
+
+jentizad. 1 lm
+
+1, un e others i c -
+
+E
+
+erotie love
+
+e
+
+in sex: s
+
+| wilh
+
+y ncl love
+
+Sl
+
+ye oe e
+
+contuser
+
+OVOreME en
+
+wnl"
+[2025-12-29T23:57:46.702384] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070662519.png
+[2025-12-29T23:57:46.709925] TTS: converting output to speech - "E
+
+u
+
+u
+
+sexunlity Y
+
+W £ rejestion of whatt
+
+ed in
+
+—
+
+divinizalt
+
+on ia olten reÑoc
+
+tion n fava!
+
+r of the divine
+
+¡dentization d
+
+cexual rentincia
+
+ted from
+
+n
+
+¡sometimes 15 1
+
+¡ disconnes
+
+1a strictly uu
+
+in an eXMEE
+
+gerated grotic 191
+
+¡ttroongata he 18
+
+and other VM
+
+P herelone, Y
+
+vi i
+
+1e intionaip
+
+pe
+
+rvermon
+
+wresa hin GM
+
+wint
+
+h can
+
+rench tun into
+
+ol SUPY
+
+aitectivity
+
+vernon ol this ¢
+
+harneter does v
+
+achieve,
+
+wexunl, the y
+
+QR
+
+¡muuhh o
+
+extremely
+
+heing 80 “
+
+jentizad. 1 lm
+
+1, un e others i c -
+
+E
+
+erotie love
+
+e
+
+in sex: s
+
+| wilh
+
+y ncl love
+
+Sl
+
+ye oe e
+
+contuser
+
+OVOreME en
+
+wnl"
+[2025-12-29T23:57:46.716996] TTS: converted output to speech
+[2025-12-29T23:57:48.358365] ESP32: capture - starting
+[2025-12-29T23:57:48.718835] ESP32: capture - finished (39435 bytes)
+[2025-12-29T23:57:48.734691] OCR: recognizeText - starting
+[2025-12-29T23:57:48.739099] OCR: processing image - 39435 bytes
+[2025-12-29T23:57:48.928283] OCR: original size: 1024x768
+[2025-12-29T23:57:48.936409] OCR: upscaled to: 1024x768
+[2025-12-29T23:57:49.135361] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070669118.png
+[2025-12-29T23:57:49.142848] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:57:52.190622] OCR: finished - result: "-
+
+—
+
+- O
+
+—
+
+—
+
+ul
+
+a
+
+rejection of what
+
+in sexuality as
+
+is often reflected
+
+the divine
+
+dealization
+
+ar
+
+nd divinization
+
+al renuincia
+
+tion in favor of
+
+1 SEXU
+
+¡con
+
+nected from
+
+1, sometimes as a
+
+an exaggerate
+
+d eroticism dis:
+
+ig strictly humar
+
+although he is
+
+1 other times, 11
+
+». Therefore,
+
+relationship, ant
+
+an reach turr
+
+y into perversi
+
+ress his emot
+
+h cs
+
+does not sUpP!
+
+affectivitys whic
+
+son
+
+of this character
+
+1most mummb
+
+le to achieves
+
+extremely
+
+sexual, the pers
+
+sa
+
+g 80 identized, 1
+
+thet. i
+
+in sex: Mis €
+
+rotic love, bein
+
+ove und, on the ol
+
+hand
+
+with admiring 1
+
+.
+
+conf
+
+y it on the one
+
+gverexciter
+
+nent"
+[2025-12-29T23:57:52.196035] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070669118.png
+[2025-12-29T23:57:52.207655] TTS: converting output to speech - "-
+
+—
+
+- O
+
+—
+
+—
+
+ul
+
+a
+
+rejection of what
+
+in sexuality as
+
+is often reflected
+
+the divine
+
+dealization
+
+ar
+
+nd divinization
+
+al renuincia
+
+tion in favor of
+
+1 SEXU
+
+¡con
+
+nected from
+
+1, sometimes as a
+
+an exaggerate
+
+d eroticism dis:
+
+ig strictly humar
+
+although he is
+
+1 other times, 11
+
+». Therefore,
+
+relationship, ant
+
+an reach turr
+
+y into perversi
+
+ress his emot
+
+h cs
+
+does not sUpP!
+
+affectivitys whic
+
+son
+
+of this character
+
+1most mummb
+
+le to achieves
+
+extremely
+
+sexual, the pers
+
+sa
+
+g 80 identized, 1
+
+thet. i
+
+in sex: Mis €
+
+rotic love, bein
+
+ove und, on the ol
+
+hand
+
+with admiring 1
+
+.
+
+conf
+
+y it on the one
+
+gverexciter
+
+nent"
+[2025-12-29T23:57:52.214679] TTS: converted output to speech
+[2025-12-29T23:57:53.906555] ESP32: capture - starting
+[2025-12-29T23:57:54.346890] ESP32: capture - finished (40116 bytes)
+[2025-12-29T23:57:54.350667] OCR: recognizeText - starting
+[2025-12-29T23:57:54.390206] OCR: processing image - 40116 bytes
+[2025-12-29T23:57:54.518287] OCR: original size: 1024x768
+[2025-12-29T23:57:54.532822] OCR: upscaled to: 1024x768
+[2025-12-29T23:57:54.728859] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070674724.png
+[2025-12-29T23:57:54.730920] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:57:58.101946] OCR: finished - result: "n p
+
+—
+
+"
+
+c
+
+p
+
+.
+
+[
+
+—
+
+ya Ce
+
+a rejectiol
+
+n of what
+
+ality as
+
+flected in sexui
+
+and divinizat
+
+jon is often Te
+
+avor of the divine
+
+[dealization
+
+xual re
+
+nunciation 11 f
+
+5 as a se
+
+disconne: from
+
+is strictly hur
+
+nan, sometime
+
+-rated eroticism
+
+and other m
+
+es, In an exagee
+
+re, although hc is
+
+relatic nship.
+
+ersion- Therefo!
+
+which can reac
+
+h tum into perv
+
+does not 5ul
+
+ppress his
+
+and de
+
+affectivity
+
+£ this character
+
+erson O
+
+pu<.~|h\c to
+
+"
+
+extremel
+
+y sexual, the P
+
+ed,is almost 1m
+
+the other, 1
+
+love,
+
+being so ¡dealiz
+
+and, on
+
+insex: H
+
+js erohic
+
+ng love
+
+1 .
+
+=
+
+hand with admir
+
+-
+
+confus
+
+es it on the one
+
+OvErexe
+
+jtement
+
+-"
+[2025-12-29T23:57:58.107379] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070674724.png
+[2025-12-29T23:57:58.110091] TTS: converting output to speech - "n p
+
+—
+
+"
+
+c
+
+p
+
+.
+
+[
+
+—
+
+ya Ce
+
+a rejectiol
+
+n of what
+
+ality as
+
+flected in sexui
+
+and divinizat
+
+jon is often Te
+
+avor of the divine
+
+[dealization
+
+xual re
+
+nunciation 11 f
+
+5 as a se
+
+disconne: from
+
+is strictly hur
+
+nan, sometime
+
+-rated eroticism
+
+and other m
+
+es, In an exagee
+
+re, although hc is
+
+relatic nship.
+
+ersion- Therefo!
+
+which can reac
+
+h tum into perv
+
+does not 5ul
+
+ppress his
+
+and de
+
+affectivity
+
+£ this character
+
+erson O
+
+pu<.~|h\c to
+
+"
+
+extremel
+
+y sexual, the P
+
+ed,is almost 1m
+
+the other, 1
+
+love,
+
+being so ¡dealiz
+
+and, on
+
+insex: H
+
+js erohic
+
+ng love
+
+1 .
+
+=
+
+hand with admir
+
+-
+
+confus
+
+es it on the one
+
+OvErexe
+
+jtement
+
+-"
+[2025-12-29T23:57:58.123067] TTS: converted output to speech
+[2025-12-29T23:57:59.118225] ESP32: capture - starting
+[2025-12-29T23:57:59.445829] ESP32: capture - finished (36664 bytes)
+[2025-12-29T23:57:59.448572] OCR: recognizeText - starting
+[2025-12-29T23:57:59.450716] OCR: processing image - 36664 bytes
+[2025-12-29T23:57:59.603851] OCR: original size: 1024x768
+[2025-12-29T23:57:59.617475] OCR: upscaled to: 1024x768
+[2025-12-29T23:57:59.804472] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070679800.png
+[2025-12-29T23:57:59.807072] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:02.928434] OCR: finished - result: "—
+
+[ E
+
+Idealizat:
+
+d d
+
+" |
+
+often refl
+
+"
+
+ed m
+
+s stevotly human
+
+cuality as a rejection of whet
+
+sometime
+
+1
+
+1
+
+«
+
+xual renunciation in favor af the divine
+
+relationship, and other time
+
+n an exaggerated eroticism disconnected from
+
+alfectivity,
+
+-
+
+4
+
+Which can reach turn into perversion Therefore, although he is
+
+n
+
+extremely
+
+1
+
+O Msex: His
+
+sexual, the person of this character does not suppress his emotional lack - -
+
+Erotic love, being so idealized, is almost impossible to achieve, Ildfuf
+
+an
+
+it on the one hand with admiring love and, on the other, it resul
+
+tement
+
+o in —
+
+.
+
+e"
+[2025-12-29T23:58:02.941978] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070679800.png
+[2025-12-29T23:58:02.944433] TTS: converting output to speech - "—
+
+[ E
+
+Idealizat:
+
+d d
+
+" |
+
+often refl
+
+"
+
+ed m
+
+s stevotly human
+
+cuality as a rejection of whet
+
+sometime
+
+1
+
+1
+
+«
+
+xual renunciation in favor af the divine
+
+relationship, and other time
+
+n an exaggerated eroticism disconnected from
+
+alfectivity,
+
+-
+
+4
+
+Which can reach turn into perversion Therefore, although he is
+
+n
+
+extremely
+
+1
+
+O Msex: His
+
+sexual, the person of this character does not suppress his emotional lack - -
+
+Erotic love, being so idealized, is almost impossible to achieve, Ildfuf
+
+an
+
+it on the one hand with admiring love and, on the other, it resul
+
+tement
+
+o in —
+
+.
+
+e"
+[2025-12-29T23:58:02.958668] TTS: converted output to speech
+[2025-12-29T23:58:04.762721] ESP32: capture - starting
+[2025-12-29T23:58:05.045492] ESP32: capture - finished (37698 bytes)
+[2025-12-29T23:58:05.053483] OCR: recognizeText - starting
+[2025-12-29T23:58:05.056117] OCR: processing image - 37698 bytes
+[2025-12-29T23:58:05.176902] OCR: original size: 1024x768
+[2025-12-29T23:58:05.214271] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:05.402800] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070685391.png
+[2025-12-29T23:58:05.405758] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:08.466197] OCR: finished - result: "'
+
+o
+
+.
+
+".
+
+.
+
+_
+
+Ide
+
+alization and divinization is often reflected in sexuality as a rejection of what
+
+o
+
+18 strictly human, sometimes as a sexual renunciation in favor of the divine
+
+Felationship, and other times, in an exagger
+
+ated eroticism disconnected from
+
+[
+
+atfectivity, which can reach turn into perversion. Therefore, although he s
+
+Extremely sexual, the person of this character does not suppress his emotional lael
+
+e His erotic love
+
++ being so idealized, i5 almost impossible to achieve, and he
+
+r
+
+confuses if on the one
+
+T
+
+hand with admiring love and. on the other, it rel de
+
+—
+
+"
+
+p
+
+s …llcuwnl
+
+r"
+[2025-12-29T23:58:08.472991] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070685391.png
+[2025-12-29T23:58:08.482737] TTS: converting output to speech - "'
+
+o
+
+.
+
+".
+
+.
+
+_
+
+Ide
+
+alization and divinization is often reflected in sexuality as a rejection of what
+
+o
+
+18 strictly human, sometimes as a sexual renunciation in favor of the divine
+
+Felationship, and other times, in an exagger
+
+ated eroticism disconnected from
+
+[
+
+atfectivity, which can reach turn into perversion. Therefore, although he s
+
+Extremely sexual, the person of this character does not suppress his emotional lael
+
+e His erotic love
+
++ being so idealized, i5 almost impossible to achieve, and he
+
+r
+
+confuses if on the one
+
+T
+
+hand with admiring love and. on the other, it rel de
+
+—
+
+"
+
+p
+
+s …llcuwnl
+
+r"
+[2025-12-29T23:58:08.492861] TTS: converted output to speech
+[2025-12-29T23:58:10.163687] ESP32: capture - starting
+[2025-12-29T23:58:10.636125] ESP32: capture - finished (39270 bytes)
+[2025-12-29T23:58:10.640811] OCR: recognizeText - starting
+[2025-12-29T23:58:10.680092] OCR: processing image - 39270 bytes
+[2025-12-29T23:58:10.807810] OCR: original size: 1024x768
+[2025-12-29T23:58:10.821417] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:11.027010] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070691023.png
+[2025-12-29T23:58:11.028873] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:13.929358] OCR: finished - result: "m
+
+"
+
+®
+
+—
+
+T
+
+be
+
+Idealization and divinization is often reflected in sexuality as a rejection of what
+
+Ea
+
+18 strictly human, sometimes as a sexual renunciation in favor of the divine
+
+relutionship, and other times, in an exaggerated eroticism disconnected from
+
+ailketivity, which can reach turn into perversion. Therefore, although he is
+
+extremely sexual, the person of this cha
+
+racter does not suppress his emotional Iﬂk»_ !
+
+a
+
+—
+
+e s erolic love, being so idealizes
+
+1, is almost impossible to achieve, and ha
+
+j
+
+E
+
+- gonfiises it on the one hand with admiring love
+
+and, on the other, it results in
+
+rexcitement"
+[2025-12-29T23:58:13.934612] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070691023.png
+[2025-12-29T23:58:13.937202] TTS: converting output to speech - "m
+
+"
+
+®
+
+—
+
+T
+
+be
+
+Idealization and divinization is often reflected in sexuality as a rejection of what
+
+Ea
+
+18 strictly human, sometimes as a sexual renunciation in favor of the divine
+
+relutionship, and other times, in an exaggerated eroticism disconnected from
+
+ailketivity, which can reach turn into perversion. Therefore, although he is
+
+extremely sexual, the person of this cha
+
+racter does not suppress his emotional Iﬂk»_ !
+
+a
+
+—
+
+e s erolic love, being so idealizes
+
+1, is almost impossible to achieve, and ha
+
+j
+
+E
+
+- gonfiises it on the one hand with admiring love
+
+and, on the other, it results in
+
+rexcitement"
+[2025-12-29T23:58:13.949474] TTS: converted output to speech
+[2025-12-29T23:58:15.632476] ESP32: capture - starting
+[2025-12-29T23:58:16.212816] ESP32: capture - finished (38192 bytes)
+[2025-12-29T23:58:16.217651] OCR: recognizeText - starting
+[2025-12-29T23:58:16.222491] OCR: processing image - 38192 bytes
+[2025-12-29T23:58:16.386042] OCR: original size: 1024x768
+[2025-12-29T23:58:16.397610] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:16.590159] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070696586.png
+[2025-12-29T23:58:16.592501] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:19.988652] OCR: finished - result: "T
+
+-
+
+-
+
+1d
+
+ization and divinization is often reflected in sexuality as a rejection 0f what
+
+del
+
+18 strictly human, sometimes as a sexual renun
+
+tion in favor of the divine
+
+relationship, and other times, in an exaggerated croticism disconnected from
+
+—
+
+E
+
+allectivity, which can reach turn into perversion. Therefore, although he is
+
+i
+
+extremely sexual, the person of this character does not suppress his emotional nj
+
+z
+
+S0 sex: His erotic love, being so idealized, i5 almost impossible to achieve, ¡nd¿b¡ a
+
+E Sontiuses it on the one hand with admiring love and, on the other, it result n
+
+EO
+
+.
+
+; —W'c¡cilcuncn¡"
+[2025-12-29T23:58:19.995827] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070696586.png
+[2025-12-29T23:58:19.998530] TTS: converting output to speech - "T
+
+-
+
+-
+
+1d
+
+ization and divinization is often reflected in sexuality as a rejection 0f what
+
+del
+
+18 strictly human, sometimes as a sexual renun
+
+tion in favor of the divine
+
+relationship, and other times, in an exaggerated croticism disconnected from
+
+—
+
+E
+
+allectivity, which can reach turn into perversion. Therefore, although he is
+
+i
+
+extremely sexual, the person of this character does not suppress his emotional nj
+
+z
+
+S0 sex: His erotic love, being so idealized, i5 almost impossible to achieve, ¡nd¿b¡ a
+
+E Sontiuses it on the one hand with admiring love and, on the other, it result n
+
+EO
+
+.
+
+; —W'c¡cilcuncn¡"
+[2025-12-29T23:58:20.010185] TTS: converted output to speech
+[2025-12-29T23:58:22.716551] ESP32: capture - starting
+[2025-12-29T23:58:23.318207] ESP32: capture - finished (38986 bytes)
+[2025-12-29T23:58:23.320967] OCR: recognizeText - starting
+[2025-12-29T23:58:23.323287] OCR: processing image - 38986 bytes
+[2025-12-29T23:58:23.454217] OCR: original size: 1024x768
+[2025-12-29T23:58:23.485389] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:23.676409] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070703662.png
+[2025-12-29T23:58:23.679416] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:26.264329] OCR: finished - result: "a rejection of what
+
+Iealization and divinization is often reflected in sexuality as
+
+avor of the divine
+
+Es strictly human, sometimes as a sexual renunciation in l
+
+Y
+
+relationship, and
+
+other times, in an exaggerated eroticism disconnected from
+
+alfectivity, which can reach turn into perversion
+
+[herefore, although he is
+
+extremely sexual, the person of this characte
+
+r does not suppress his emotional Incl
+
+U
+
+E-
+
+in sex: His erotic love, being so ides
+
+ilized, is almost impossible to achieve, and be
+
+E
+
+p
+
+E onfuses it on the one hand with admiring love and, on the other, it results m —
+
+a
+
+.
+
+N overexcitement.
+
+—"
+[2025-12-29T23:58:26.270233] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070703662.png
+[2025-12-29T23:58:26.272323] TTS: converting output to speech - "a rejection of what
+
+Iealization and divinization is often reflected in sexuality as
+
+avor of the divine
+
+Es strictly human, sometimes as a sexual renunciation in l
+
+Y
+
+relationship, and
+
+other times, in an exaggerated eroticism disconnected from
+
+alfectivity, which can reach turn into perversion
+
+[herefore, although he is
+
+extremely sexual, the person of this characte
+
+r does not suppress his emotional Incl
+
+U
+
+E-
+
+in sex: His erotic love, being so ides
+
+ilized, is almost impossible to achieve, and be
+
+E
+
+p
+
+E onfuses it on the one hand with admiring love and, on the other, it results m —
+
+a
+
+.
+
+N overexcitement.
+
+—"
+[2025-12-29T23:58:26.284771] TTS: converted output to speech
+[2025-12-29T23:58:30.809584] ESP32: capture - starting
+[2025-12-29T23:58:31.421360] ESP32: capture - finished (38403 bytes)
+[2025-12-29T23:58:31.429434] OCR: recognizeText - starting
+[2025-12-29T23:58:31.433478] OCR: processing image - 38403 bytes
+[2025-12-29T23:58:31.577721] OCR: original size: 1024x768
+[2025-12-29T23:58:31.603547] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:31.848157] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070711819.png
+[2025-12-29T23:58:31.856864] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:35.008955] OCR: finished - result: "E
+
+N
+
+ation is often reflected in sexu
+
+ality as a rejecton of what
+
+Idealization and diviniz
+
+ual renunciation in favor of the divine
+
+u
+
+15 strictly human, sometimes as a se:
+
+ated eroticism disconnected from
+
+relationship, and other times, 1n an exagger
+
+Therefore, although he 18
+
+affectivity, which can reach turn into perversion
+
+suppress his emotional lack
+
+extremely sexu:
+
+al, the person of this character does not
+
+almost impossible to schieve: and he
+
+. E
+
+M His erotic love, being so idealized, 15
+
+he other, it results in
+
+leomfises it on the onc hand with admiring loye and, on y
+
+i
+
+X j…m(cmcm"
+[2025-12-29T23:58:35.018048] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070711819.png
+[2025-12-29T23:58:35.021174] TTS: converting output to speech - "E
+
+N
+
+ation is often reflected in sexu
+
+ality as a rejecton of what
+
+Idealization and diviniz
+
+ual renunciation in favor of the divine
+
+u
+
+15 strictly human, sometimes as a se:
+
+ated eroticism disconnected from
+
+relationship, and other times, 1n an exagger
+
+Therefore, although he 18
+
+affectivity, which can reach turn into perversion
+
+suppress his emotional lack
+
+extremely sexu:
+
+al, the person of this character does not
+
+almost impossible to schieve: and he
+
+. E
+
+M His erotic love, being so idealized, 15
+
+he other, it results in
+
+leomfises it on the onc hand with admiring loye and, on y
+
+i
+
+X j…m(cmcm"
+[2025-12-29T23:58:35.027891] TTS: converted output to speech
+[2025-12-29T23:58:36.686930] ESP32: capture - starting
+[2025-12-29T23:58:37.010819] ESP32: capture - finished (38145 bytes)
+[2025-12-29T23:58:37.015493] OCR: recognizeText - starting
+[2025-12-29T23:58:37.061955] OCR: processing image - 38145 bytes
+[2025-12-29T23:58:37.204815] OCR: original size: 1024x768
+[2025-12-29T23:58:37.221887] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:37.422877] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070717419.png
+[2025-12-29T23:58:37.425098] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:40.855651] OCR: finished - result: "“
+
+ee
+
+!_____________-—-—-———_'_‘
+
+as a rejection of whal
+
+Jdealization and divinizali
+
+on is often reflected in sexuality
+
+avor of the divine
+
+a sexual renunciation 1n 1
+
+E sincily human, sometimes as
+
+om
+
+other times, in an exagg
+
+erated erolicism dl\\unuc;lcd f
+
+relationship, and
+
+ach turn into perver
+
+sion. Therefore, although he 1s
+
+affectivity, which can re
+
+son of this character
+
+does not suppress his emotional lack
+
+extremely sexual, the per
+
+€ love, being so idealized, 15 almost 1
+
+mpossible to achieve, and he
+
+B inyex: His crots
+
+¿ other, it results i
+
+U eonfuses it on th
+
+¢ one hand with admiring love and, on th
+
+L oya:xcucmm"
+[2025-12-29T23:58:40.864276] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070717419.png
+[2025-12-29T23:58:40.867141] TTS: converting output to speech - "“
+
+ee
+
+!_____________-—-—-———_'_‘
+
+as a rejection of whal
+
+Jdealization and divinizali
+
+on is often reflected in sexuality
+
+avor of the divine
+
+a sexual renunciation 1n 1
+
+E sincily human, sometimes as
+
+om
+
+other times, in an exagg
+
+erated erolicism dl\\unuc;lcd f
+
+relationship, and
+
+ach turn into perver
+
+sion. Therefore, although he 1s
+
+affectivity, which can re
+
+son of this character
+
+does not suppress his emotional lack
+
+extremely sexual, the per
+
+€ love, being so idealized, 15 almost 1
+
+mpossible to achieve, and he
+
+B inyex: His crots
+
+¿ other, it results i
+
+U eonfuses it on th
+
+¢ one hand with admiring love and, on th
+
+L oya:xcucmm"
+[2025-12-29T23:58:40.875625] TTS: converted output to speech
+[2025-12-29T23:58:43.061006] ESP32: capture - starting
+[2025-12-29T23:58:43.609385] ESP32: capture - finished (39567 bytes)
+[2025-12-29T23:58:43.616690] OCR: recognizeText - starting
+[2025-12-29T23:58:43.620197] OCR: processing image - 39567 bytes
+[2025-12-29T23:58:43.747445] OCR: original size: 1024x768
+[2025-12-29T23:58:43.778858] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:44.000789] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070723985.png
+[2025-12-29T23:58:44.004461] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:46.724786] OCR: finished - result: "E
+
+n
+
+ality
+
+as a rejection of what
+
+aton
+
+is often reflected in sexu
+
+Idealization and diviniz
+
+avor of the divine
+
+3
+
+human, sometimes
+
+as
+
+a sexual renunciation 11 f
+
+is strictly
+
+ated eroticism dl
+
+isconnected from
+
+other times, in an exagger
+
+relationship, and
+
+[herefore, although he 15
+
+7 into perversion
+
+; emotional lek
+
+affectivity, which can reach tur
+
+aracter does not suppress his
+
+extremely sexual, the pers
+
+on of this ch
+
+eve, and he
+
+almost impossible to achi
+
+iN sex: His erotic love, bein
+
+g so idealized, 15
+
+other, it results in
+
+¢ and, on the
+
+confuses it on the one hand
+
+| with admiring lov
+
+;
+
+& overexcitement
+
+n"
+[2025-12-29T23:58:46.730284] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070723985.png
+[2025-12-29T23:58:46.732285] TTS: converting output to speech - "E
+
+n
+
+ality
+
+as a rejection of what
+
+aton
+
+is often reflected in sexu
+
+Idealization and diviniz
+
+avor of the divine
+
+3
+
+human, sometimes
+
+as
+
+a sexual renunciation 11 f
+
+is strictly
+
+ated eroticism dl
+
+isconnected from
+
+other times, in an exagger
+
+relationship, and
+
+[herefore, although he 15
+
+7 into perversion
+
+; emotional lek
+
+affectivity, which can reach tur
+
+aracter does not suppress his
+
+extremely sexual, the pers
+
+on of this ch
+
+eve, and he
+
+almost impossible to achi
+
+iN sex: His erotic love, bein
+
+g so idealized, 15
+
+other, it results in
+
+¢ and, on the
+
+confuses it on the one hand
+
+| with admiring lov
+
+;
+
+& overexcitement
+
+n"
+[2025-12-29T23:58:46.738522] TTS: converted output to speech
+[2025-12-29T23:58:50.225152] ESP32: capture - starting
+[2025-12-29T23:58:50.703259] ESP32: capture - finished (40178 bytes)
+[2025-12-29T23:58:50.707299] OCR: recognizeText - starting
+[2025-12-29T23:58:50.710053] OCR: processing image - 40178 bytes
+[2025-12-29T23:58:50.873109] OCR: original size: 1024x768
+[2025-12-29T23:58:50.887405] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:51.093422] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070731083.png
+[2025-12-29T23:58:51.095368] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:53.727731] OCR: finished - result: "_
+
+-
+
+U
+
+_
+
+as a rejection
+
+n of what
+
+xuality
+
+is often re flected in se
+
+Idealizat
+
+jon and divinization
+
+wor of the divine
+
+as ase
+
+xual renunciation 11 to
+
+trictly huma
+
+n, sometunes
+
+ated eroticism di
+
+isconnected from
+
+an exaggcr
+
+relationship, an
+
+] other times, 11
+
+although he 15
+
+perversion Therefore,
+
+emotional lack
+
+affectivity, which
+
+can reach turn into
+
+ss his
+
+aral
+
+cter does not suppre
+
+achieve,
+
+and he
+
+extremely sexual, tl
+
+e person of this ch
+
+almost impossible to
+
+-
+
+E
+
+I sex: His erotic love.
+
+being so idealized, is
+
+ve and, on the other, it
+
+results m
+
+confuses it on the one
+
+hand with admiring lo
+
+overexcitement.
+
+=
+
+* -"
+[2025-12-29T23:58:53.733611] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070731083.png
+[2025-12-29T23:58:53.735909] TTS: converting output to speech - "_
+
+-
+
+U
+
+_
+
+as a rejection
+
+n of what
+
+xuality
+
+is often re flected in se
+
+Idealizat
+
+jon and divinization
+
+wor of the divine
+
+as ase
+
+xual renunciation 11 to
+
+trictly huma
+
+n, sometunes
+
+ated eroticism di
+
+isconnected from
+
+an exaggcr
+
+relationship, an
+
+] other times, 11
+
+although he 15
+
+perversion Therefore,
+
+emotional lack
+
+affectivity, which
+
+can reach turn into
+
+ss his
+
+aral
+
+cter does not suppre
+
+achieve,
+
+and he
+
+extremely sexual, tl
+
+e person of this ch
+
+almost impossible to
+
+-
+
+E
+
+I sex: His erotic love.
+
+being so idealized, is
+
+ve and, on the other, it
+
+results m
+
+confuses it on the one
+
+hand with admiring lo
+
+overexcitement.
+
+=
+
+* -"
+[2025-12-29T23:58:53.741878] TTS: converted output to speech
+[2025-12-29T23:58:55.009485] ESP32: capture - starting
+[2025-12-29T23:58:55.289701] ESP32: capture - finished (40584 bytes)
+[2025-12-29T23:58:55.292020] OCR: recognizeText - starting
+[2025-12-29T23:58:55.293861] OCR: processing image - 40584 bytes
+[2025-12-29T23:58:55.412147] OCR: original size: 1024x768
+[2025-12-29T23:58:55.443101] OCR: upscaled to: 1024x768
+[2025-12-29T23:58:55.641637] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070735635.png
+[2025-12-29T23:58:55.659382] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:58:58.919185] OCR: finished - result: "=
+
+o
+
+Te
+
+h
+
+asa ÍC]CC“U
+
+n of what
+
+en reflected in sexuality
+
+a
+
+divine
+
+1dealization an
+
+d divinization is oft
+
+avor of the
+
+| renunciation 1n É
+
+»
+
+metimes as a sexua
+
+ted eroticism d
+
+isconnected from
+
+is strictly human. S¢
+
+an exaggera
+
+her times, in
+
+fore, although heis
+
+relationship, and otl
+
+rsion. There
+
+al lack
+
+each turn into perve!
+
+his emotoT
+
+aifectivity, which can E
+
+er does not SUppress
+
+achieve, and be
+
+exual, the pel
+
+rson of this charact
+
+to
+
+extremely
+
+almost nu¡m“uhh.'
+
+ing so ¡denlized, 18
+
+it results in
+
+in sex: His erotic love, be
+
+love
+
+and, on the other,
+
+d with adminng
+
+—
+
+confuses it on the one han
+
+overexcitement
+
+. .-"
+[2025-12-29T23:58:58.928607] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070735635.png
+[2025-12-29T23:58:58.931281] TTS: converting output to speech - "=
+
+o
+
+Te
+
+h
+
+asa ÍC]CC“U
+
+n of what
+
+en reflected in sexuality
+
+a
+
+divine
+
+1dealization an
+
+d divinization is oft
+
+avor of the
+
+| renunciation 1n É
+
+»
+
+metimes as a sexua
+
+ted eroticism d
+
+isconnected from
+
+is strictly human. S¢
+
+an exaggera
+
+her times, in
+
+fore, although heis
+
+relationship, and otl
+
+rsion. There
+
+al lack
+
+each turn into perve!
+
+his emotoT
+
+aifectivity, which can E
+
+er does not SUppress
+
+achieve, and be
+
+exual, the pel
+
+rson of this charact
+
+to
+
+extremely
+
+almost nu¡m“uhh.'
+
+ing so ¡denlized, 18
+
+it results in
+
+in sex: His erotic love, be
+
+love
+
+and, on the other,
+
+d with adminng
+
+—
+
+confuses it on the one han
+
+overexcitement
+
+. .-"
+[2025-12-29T23:58:58.938447] TTS: converted output to speech
+[2025-12-29T23:58:59.780314] ESP32: capture - starting
+[2025-12-29T23:59:00.388797] ESP32: capture - finished (42631 bytes)
+[2025-12-29T23:59:00.390933] OCR: recognizeText - starting
+[2025-12-29T23:59:00.392732] OCR: processing image - 42631 bytes
+[2025-12-29T23:59:00.510911] OCR: original size: 1024x768
+[2025-12-29T23:59:00.542218] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:00.736717] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070740732.png
+[2025-12-29T23:59:00.739353] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:04.425884] OCR: finished - result: "— *C
+
+EA
+
+5
+
+-
+
+d
+
+=.
+
+rejection of wha
+
+n sexuality as &
+
+.
+
+divine
+
+s often reflected 1
+
+avor of the
+
+Tdealization ar
+
+nd divinization !
+
+al renunc!
+
+ation in £
+
+—
+
+a sexu:
+
+ected from
+
+n, sometimes as
+
+oticism disconn
+
+g strictly huma!
+
+an uxuggcm\cd er
+
+ough he 15
+
+relationship, an
+
+d other times, 11
+
+Therefore, althi
+
+al hac
+
+h can reach tum
+
+into pcr\'cninn
+
+is emotion
+
+altectiv
+
+ity, whic
+
+aracter do
+
+es not suppress hi
+
+£ this ch
+
+ost u“pus.x\hlc to
+
+achieve, and he
+
+extremely se
+
+xual, the person ©
+
+dealized, is alm
+
+love, being SO !
+
+it results 10
+
+in sex: His erotic
+
+dmiring love &
+
+nd, on the other,
+
+t on the one
+
+hand with a
+
+confus
+
+pverexciler
+
+a"
+[2025-12-29T23:59:04.433432] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070740732.png
+[2025-12-29T23:59:04.441561] TTS: converting output to speech - "— *C
+
+EA
+
+5
+
+-
+
+d
+
+=.
+
+rejection of wha
+
+n sexuality as &
+
+.
+
+divine
+
+s often reflected 1
+
+avor of the
+
+Tdealization ar
+
+nd divinization !
+
+al renunc!
+
+ation in £
+
+—
+
+a sexu:
+
+ected from
+
+n, sometimes as
+
+oticism disconn
+
+g strictly huma!
+
+an uxuggcm\cd er
+
+ough he 15
+
+relationship, an
+
+d other times, 11
+
+Therefore, althi
+
+al hac
+
+h can reach tum
+
+into pcr\'cninn
+
+is emotion
+
+altectiv
+
+ity, whic
+
+aracter do
+
+es not suppress hi
+
+£ this ch
+
+ost u“pus.x\hlc to
+
+achieve, and he
+
+extremely se
+
+xual, the person ©
+
+dealized, is alm
+
+love, being SO !
+
+it results 10
+
+in sex: His erotic
+
+dmiring love &
+
+nd, on the other,
+
+t on the one
+
+hand with a
+
+confus
+
+pverexciler
+
+a"
+[2025-12-29T23:59:04.450103] TTS: converted output to speech
+[2025-12-29T23:59:05.231632] ESP32: capture - starting
+[2025-12-29T23:59:05.467731] ESP32: capture - finished (30993 bytes)
+[2025-12-29T23:59:05.470573] OCR: recognizeText - starting
+[2025-12-29T23:59:05.472538] OCR: processing image - 30993 bytes
+[2025-12-29T23:59:05.587481] OCR: original size: 1024x768
+[2025-12-29T23:59:05.618981] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:05.816161] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070745806.png
+[2025-12-29T23:59:05.830991] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:08.844889] OCR: finished - result: "ei
+
+juebien l whid
+
+IR
+
+Men reile
+
+|
+
+Wl
+
+|
+
+1r1 161 19
+
+í
+
+| (e ei
+
+fdenlivatióon mind el
+
+í
+
+aal Pl
+
+s
+
+TT
+
+1
+
+¡ebiitaroa 1
+
+i
+
+polunl He
+
+ya bty B
+
+ha A
+
+r
+
+el
+
+UO
+
+ENO
+
+Huetelk
+
+UN
+
+h le 1e
+
+opulatiemetap
+
+ME
+
+velo i DNE
+
+1
+
+\
+
+F
+
+fivily, which
+
+e ebioa
+
+Wt
+
+ú
+
+1a lee UN
+
+N
+
+vl
+
+ey =eavil u
+
+e -
+
+" u
+
+aliiuiel 11
+
+et MAO"
+[2025-12-29T23:59:08.850551] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070745806.png
+[2025-12-29T23:59:08.853243] TTS: converting output to speech - "ei
+
+juebien l whid
+
+IR
+
+Men reile
+
+|
+
+Wl
+
+|
+
+1r1 161 19
+
+í
+
+| (e ei
+
+fdenlivatióon mind el
+
+í
+
+aal Pl
+
+s
+
+TT
+
+1
+
+¡ebiitaroa 1
+
+i
+
+polunl He
+
+ya bty B
+
+ha A
+
+r
+
+el
+
+UO
+
+ENO
+
+Huetelk
+
+UN
+
+h le 1e
+
+opulatiemetap
+
+ME
+
+velo i DNE
+
+1
+
+\
+
+F
+
+fivily, which
+
+e ebioa
+
+Wt
+
+ú
+
+1a lee UN
+
+N
+
+vl
+
+ey =eavil u
+
+e -
+
+" u
+
+aliiuiel 11
+
+et MAO"
+[2025-12-29T23:59:08.869253] TTS: converted output to speech
+[2025-12-29T23:59:09.730857] ESP32: capture - starting
+[2025-12-29T23:59:10.051961] ESP32: capture - finished (34382 bytes)
+[2025-12-29T23:59:10.054162] OCR: recognizeText - starting
+[2025-12-29T23:59:10.056620] OCR: processing image - 34382 bytes
+[2025-12-29T23:59:10.170718] OCR: original size: 1024x768
+[2025-12-29T23:59:10.203307] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:10.388442] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070750378.png
+[2025-12-29T23:59:10.390002] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:12.138766] OCR: finished - result: ".
+
+Idealization and divinization is often reflec
+
+-d in sexuality as a rejechion of what
+
+—
+
+as a sexual renunc
+
+tion in favor of the divine
+
+1
+
+1s strictly human, sometim
+
+el
+
+serated eroticism disconnected from
+
+onship, and other times, in an eXag
+
+[herefore, although he 1s
+
+vity, which can reach turn into perversion
+
+ot
+
+re
+
+xual. the person of this character does not suppress his em"
+[2025-12-29T23:59:12.144258] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070750378.png
+[2025-12-29T23:59:12.147229] TTS: converting output to speech - ".
+
+Idealization and divinization is often reflec
+
+-d in sexuality as a rejechion of what
+
+—
+
+as a sexual renunc
+
+tion in favor of the divine
+
+1
+
+1s strictly human, sometim
+
+el
+
+serated eroticism disconnected from
+
+onship, and other times, in an eXag
+
+[herefore, although he 1s
+
+vity, which can reach turn into perversion
+
+ot
+
+re
+
+xual. the person of this character does not suppress his em"
+[2025-12-29T23:59:12.154566] TTS: converted output to speech
+[2025-12-29T23:59:13.325544] ESP32: capture - starting
+[2025-12-29T23:59:13.655010] ESP32: capture - finished (33839 bytes)
+[2025-12-29T23:59:13.661224] OCR: recognizeText - starting
+[2025-12-29T23:59:13.663997] OCR: processing image - 33839 bytes
+[2025-12-29T23:59:13.788404] OCR: original size: 1024x768
+[2025-12-29T23:59:13.819304] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:14.001875] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070753995.png
+[2025-12-29T23:59:14.003609] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:16.030200] OCR: finished - result: "as a rejection al what
+
+Idealization and divin
+
+ization is often reflected in se xuality
+
+s
+
+la strietly human, sometimes
+
+exual renunciation in favor of the divine
+
+pelutionship, and other times, in an exig
+
+gemted eroticism disconnected From
+
+vi
+
+a
+
+"T
+
+[herefore, although he 4
+
+1
+
+1l
+
+l
+
+vity, which can rench turn int
+
+o perversion
+
+o
+
+acter does not suppress his em
+
+mely sexual, the person of this char"
+[2025-12-29T23:59:16.036392] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070753995.png
+[2025-12-29T23:59:16.039261] TTS: converting output to speech - "as a rejection al what
+
+Idealization and divin
+
+ization is often reflected in se xuality
+
+s
+
+la strietly human, sometimes
+
+exual renunciation in favor of the divine
+
+pelutionship, and other times, in an exig
+
+gemted eroticism disconnected From
+
+vi
+
+a
+
+"T
+
+[herefore, although he 4
+
+1
+
+1l
+
+l
+
+vity, which can rench turn int
+
+o perversion
+
+o
+
+acter does not suppress his em
+
+mely sexual, the person of this char"
+[2025-12-29T23:59:16.055437] TTS: converted output to speech
+[2025-12-29T23:59:17.468027] ESP32: capture - starting
+[2025-12-29T23:59:17.718935] ESP32: capture - finished (33443 bytes)
+[2025-12-29T23:59:17.722573] OCR: recognizeText - starting
+[2025-12-29T23:59:17.726715] OCR: processing image - 33443 bytes
+[2025-12-29T23:59:17.884929] OCR: original size: 1024x768
+[2025-12-29T23:59:17.888423] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:18.080834] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070758077.png
+[2025-12-29T23:59:18.082907] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:21.626201] OCR: finished - result: "'y
+
+3
+
+"
+
+4
+
+n
+
+rieth, Hurnas,
+
+ni
+
+m
+
+Y
+
+11,
+
+1
+
+FEl
+
+hips
+
+T
+
+tim
+
+! ín
+
+Hal y
+
+tali
+
+Alogiiyi
+
+"her £y,
+
+M an
+
+Mitira
+
+N
+
+J
+
+1
+
+Yhicl , "7
+
+yT
+
+"an ¿n la
+
+1
+
+" /
+
+o},
+
+uu-—/mlp
+
+CA
+
+ales ,
+
+" f
+
+i
+
+i
+
+Hal
+
+uN
+
+ENEN (1)77, Mile;
+
+Iy
+
+"OMejam ¡
+
+"
+
+I
+
+fer
+
+"
+
+Es
+
+e
+
+[
+
+li
+
+" 1
+
+"M Meroj
+
+í
+
+T
+
+LT TE
+
+1e1y
+
+haracs í
+
+len
+
+ulth,
+
+H
+
+" !h
+
+lel
+
+uN
+
+U
+
+1b h
+
+i
+
+El
+
+7
+
+han
+
+"m
+
+“
+
+uT
+
+L
+
+UN
+
+Ti
+
+í
+
+"h a Wrirmy |
+
+17
+
+[
+
+'Nismal ae b
+
+"a 4
+
+? Mc hy
+
+En
+
+th,
+
+!
+
+S fu
+
+i
+
+4y"
+[2025-12-29T23:59:21.632229] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070758077.png
+[2025-12-29T23:59:21.634776] TTS: converting output to speech - "'y
+
+3
+
+"
+
+4
+
+n
+
+rieth, Hurnas,
+
+ni
+
+m
+
+Y
+
+11,
+
+1
+
+FEl
+
+hips
+
+T
+
+tim
+
+! ín
+
+Hal y
+
+tali
+
+Alogiiyi
+
+"her £y,
+
+M an
+
+Mitira
+
+N
+
+J
+
+1
+
+Yhicl , "7
+
+yT
+
+"an ¿n la
+
+1
+
+" /
+
+o},
+
+uu-—/mlp
+
+CA
+
+ales ,
+
+" f
+
+i
+
+i
+
+Hal
+
+uN
+
+ENEN (1)77, Mile;
+
+Iy
+
+"OMejam ¡
+
+"
+
+I
+
+fer
+
+"
+
+Es
+
+e
+
+[
+
+li
+
+" 1
+
+"M Meroj
+
+í
+
+T
+
+LT TE
+
+1e1y
+
+haracs í
+
+len
+
+ulth,
+
+H
+
+" !h
+
+lel
+
+uN
+
+U
+
+1b h
+
+i
+
+El
+
+7
+
+han
+
+"m
+
+“
+
+uT
+
+L
+
+UN
+
+Ti
+
+í
+
+"h a Wrirmy |
+
+17
+
+[
+
+'Nismal ae b
+
+"a 4
+
+? Mc hy
+
+En
+
+th,
+
+!
+
+S fu
+
+i
+
+4y"
+[2025-12-29T23:59:21.646398] TTS: converted output to speech
+[2025-12-29T23:59:22.510528] ESP32: capture - starting
+[2025-12-29T23:59:22.823795] ESP32: capture - finished (36920 bytes)
+[2025-12-29T23:59:22.825489] OCR: recognizeText - starting
+[2025-12-29T23:59:22.828118] OCR: processing image - 36920 bytes
+[2025-12-29T23:59:22.970854] OCR: original size: 1024x768
+[2025-12-29T23:59:22.982109] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:23.167477] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070763163.png
+[2025-12-29T23:59:23.170049] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:27.475781] OCR: finished - result: "Ide
+
+alizari;
+
+"N and
+
+I8 strictyy human 501
+
+diy INzation j¿
+
+Metimes
+
+* often reflec
+
+re lu!mm!up
+
+as
+
+ted in y
+
+*Extality
+
+» “nd o,
+
+€T imes
+
+4 Sexua] -
+
+Cnung;
+
+4 rejeet
+
+affecriy ity,
+
+Which ¿
+
+1n 4
+
+ation ¡n f
+
+an reg
+
+16
+
+n e \d!.’[.l(l-
+
+Med e
+
+'0n of “har
+
+h turn Intc
+
+TOlc 15m
+
+“Vor of the divi
+
+dis
+
+M
+
+Extremely y. Xual, 1)
+
+) perv,
+
+Erston
+
+'Conne
+
+Msex: 11,6
+
+Erotic lo
+
+1€ person oft
+
+his ch
+
+There fore
+
+Cled f
+
+om
+
+Config,
+
+Ve
+
+“racter de
+
+'ES a on
+
+lung So |
+
+ES not y
+
+Uthough h
+
+Overo:
+
+the o
+
+€ h,
+
+dealizos
+
+Uppres
+
+,'¡L*llclm'lll
+
+d wity
+
+.IIIIuM I
+
+8 his em
+
+.uhnuulp
+
+love
+
+Mposg;p),
+
+to
+
+'tonal ny k
+
+anc
+
+Achieye
+
+1, on the
+
+'her
+
+d ho
+
+" resule
+
+m"
+[2025-12-29T23:59:27.486148] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070763163.png
+[2025-12-29T23:59:27.489335] TTS: converting output to speech - "Ide
+
+alizari;
+
+"N and
+
+I8 strictyy human 501
+
+diy INzation j¿
+
+Metimes
+
+* often reflec
+
+re lu!mm!up
+
+as
+
+ted in y
+
+*Extality
+
+» “nd o,
+
+€T imes
+
+4 Sexua] -
+
+Cnung;
+
+4 rejeet
+
+affecriy ity,
+
+Which ¿
+
+1n 4
+
+ation ¡n f
+
+an reg
+
+16
+
+n e \d!.’[.l(l-
+
+Med e
+
+'0n of “har
+
+h turn Intc
+
+TOlc 15m
+
+“Vor of the divi
+
+dis
+
+M
+
+Extremely y. Xual, 1)
+
+) perv,
+
+Erston
+
+'Conne
+
+Msex: 11,6
+
+Erotic lo
+
+1€ person oft
+
+his ch
+
+There fore
+
+Cled f
+
+om
+
+Config,
+
+Ve
+
+“racter de
+
+'ES a on
+
+lung So |
+
+ES not y
+
+Uthough h
+
+Overo:
+
+the o
+
+€ h,
+
+dealizos
+
+Uppres
+
+,'¡L*llclm'lll
+
+d wity
+
+.IIIIuM I
+
+8 his em
+
+.uhnuulp
+
+love
+
+Mposg;p),
+
+to
+
+'tonal ny k
+
+anc
+
+Achieye
+
+1, on the
+
+'her
+
+d ho
+
+" resule
+
+m"
+[2025-12-29T23:59:27.498506] TTS: converted output to speech
+[2025-12-29T23:59:30.955681] ESP32: capture - starting
+[2025-12-29T23:59:31.427403] ESP32: capture - finished (33762 bytes)
+[2025-12-29T23:59:31.431213] OCR: recognizeText - starting
+[2025-12-29T23:59:31.433333] OCR: processing image - 33762 bytes
+[2025-12-29T23:59:31.561717] OCR: original size: 1024x768
+[2025-12-29T23:59:31.591559] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:31.794696] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070771792.png
+[2025-12-29T23:59:31.796945] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:34.633385] OCR: finished - result: "Ideali,
+
+ation a
+
+1S strici
+
+Ty
+
+oy
+
+n
+
+Marreay
+
+N
+
+ofc
+
+TC
+
+relar
+
+M
+
+“imes
+
+s
+
+Ce
+
+"y
+
+"d a
+
+SEXUAJ
+
+Ney
+
+CN
+
+!
+
+e
+
+f—!v…'—¡…
+
+W,
+
+'
+
+O\
+
+1
+
+Rn
+
+“
+
+™!
+
+Y vex
+
+"
+
+"X
+
+ey
+
+Es o
+
+eo
+
+“
+
+W
+
+Oe
+
+eC
+
+“
+
+“
+
+Tusos y
+
+W
+
+a
+
+S0 Ki
+
+a
+
+Mes nay
+
+"e
+
+lized
+
+Supyy
+
+OVerexcar
+
+Mens
+
+Sand with
+
+5 almost
+
+admy g
+
+Tp
+
+ssible
+
+u
+
+e
+
+love anc
+
+h
+
+CV
+
+1 h
+
+1 on the othes
+
+"
+
+Extalo
+
+* [
+
+" »
+
+=
+
+ss
+
+-
+
+—
+
+["
+[2025-12-29T23:59:34.643643] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070771792.png
+[2025-12-29T23:59:34.645596] TTS: converting output to speech - "Ideali,
+
+ation a
+
+1S strici
+
+Ty
+
+oy
+
+n
+
+Marreay
+
+N
+
+ofc
+
+TC
+
+relar
+
+M
+
+“imes
+
+s
+
+Ce
+
+"y
+
+"d a
+
+SEXUAJ
+
+Ney
+
+CN
+
+!
+
+e
+
+f—!v…'—¡…
+
+W,
+
+'
+
+O\
+
+1
+
+Rn
+
+“
+
+™!
+
+Y vex
+
+"
+
+"X
+
+ey
+
+Es o
+
+eo
+
+“
+
+W
+
+Oe
+
+eC
+
+“
+
+“
+
+Tusos y
+
+W
+
+a
+
+S0 Ki
+
+a
+
+Mes nay
+
+"e
+
+lized
+
+Supyy
+
+OVerexcar
+
+Mens
+
+Sand with
+
+5 almost
+
+admy g
+
+Tp
+
+ssible
+
+u
+
+e
+
+love anc
+
+h
+
+CV
+
+1 h
+
+1 on the othes
+
+"
+
+Extalo
+
+* [
+
+" »
+
+=
+
+ss
+
+-
+
+—
+
+["
+[2025-12-29T23:59:34.651830] TTS: converted output to speech
+[2025-12-29T23:59:35.575143] ESP32: capture - starting
+[2025-12-29T23:59:36.029819] ESP32: capture - finished (36125 bytes)
+[2025-12-29T23:59:36.032726] OCR: recognizeText - starting
+[2025-12-29T23:59:36.035080] OCR: processing image - 36125 bytes
+[2025-12-29T23:59:36.152332] OCR: original size: 1024x768
+[2025-12-29T23:59:36.183814] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:36.383998] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070776375.png
+[2025-12-29T23:59:36.385949] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:40.360588] OCR: finished - result: "il
+
+I
+
+Mon an o
+
+Vim
+
+ety
+
+Mon |
+
+rel
+
+LT
+
+DNE
+
+He
+
+Ollen r [
+
+.muwln,v [
+
+i
+
+e in
+
+tulyy
+
+!othey U
+
+Xual reny
+
+1
+
+leo iy
+
+Ney 'ton '
+
+Jection
+
+! an ey 19
+
+Heraled
+
+hrrv/'h
+
+,
+
+Exfremol,
+
+Wlieh ¢ " renoh ny
+
+v,
+
+M into p Versi:
+
+"
+
+Srolicism lsa
+
+re
+
+"Nn His .
+
+EXual, h Person a
+
+! thj
+
+¡l….¡….
+
+1]
+
+n
+
+tulio lay
+
+being
+
+Eharmor: I dog
+
+thoyg
+
+ON MNO
+
+10 1
+
+hal
+
+Mon th:
+
+1e hang
+
+loali Vel |
+
+Uppre
+
+hi
+
+OVore Aoy nt
+
+almo ity
+
+EMotiana
+
+! with Wiy
+
+£ loy
+
+Wible 1o “
+
+! lavk
+
+hieye
+
+"d hy
+
+i, an the Othey
+
+" re
+
+Ults ¿n"
+[2025-12-29T23:59:40.369618] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070776375.png
+[2025-12-29T23:59:40.373543] TTS: converting output to speech - "il
+
+I
+
+Mon an o
+
+Vim
+
+ety
+
+Mon |
+
+rel
+
+LT
+
+DNE
+
+He
+
+Ollen r [
+
+.muwln,v [
+
+i
+
+e in
+
+tulyy
+
+!othey U
+
+Xual reny
+
+1
+
+leo iy
+
+Ney 'ton '
+
+Jection
+
+! an ey 19
+
+Heraled
+
+hrrv/'h
+
+,
+
+Exfremol,
+
+Wlieh ¢ " renoh ny
+
+v,
+
+M into p Versi:
+
+"
+
+Srolicism lsa
+
+re
+
+"Nn His .
+
+EXual, h Person a
+
+! thj
+
+¡l….¡….
+
+1]
+
+n
+
+tulio lay
+
+being
+
+Eharmor: I dog
+
+thoyg
+
+ON MNO
+
+10 1
+
+hal
+
+Mon th:
+
+1e hang
+
+loali Vel |
+
+Uppre
+
+hi
+
+OVore Aoy nt
+
+almo ity
+
+EMotiana
+
+! with Wiy
+
+£ loy
+
+Wible 1o “
+
+! lavk
+
+hieye
+
+"d hy
+
+i, an the Othey
+
+" re
+
+Ults ¿n"
+[2025-12-29T23:59:40.380859] TTS: converted output to speech
+[2025-12-29T23:59:41.253411] ESP32: capture - starting
+[2025-12-29T23:59:41.630434] ESP32: capture - finished (38248 bytes)
+[2025-12-29T23:59:41.632621] OCR: recognizeText - starting
+[2025-12-29T23:59:41.634227] OCR: processing image - 38248 bytes
+[2025-12-29T23:59:41.765591] OCR: original size: 1024x768
+[2025-12-29T23:59:41.791646] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:41.990991] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070781981.png
+[2025-12-29T23:59:42.012961] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:45.002551] OCR: finished - result: "í
+
+"ON and dí
+
+vim
+
+Mrretly hu
+
+ron |
+
+an
+
+*Ometime
+
+Olten reflec ted in
+
+relations
+
+“ SExU,
+
+CXualin
+
+T
+
+j
+
+ship
+
+and other time
+
+a
+
+ction o
+
+atlectivipy
+
+% In
+
+U renunej Mion
+
+10 fay
+
+! whay
+
+Which can re
+
+"N exago
+
+or of 1h
+
+1e divine
+
+ach
+
+Crate Crolicisy dí
+
+EXlremely SExU
+
+! Hum into pery
+
+Ersion
+
+al, the per
+
+SO0 of (s
+
+erefore
+
+*connecteg !rom
+
+IN sex His erot
+
+s char
+
+although he
+
+Confuse
+
+1 love, be
+
+"cter does
+
+Y ot s
+
+INg 50 ide
+
+alized, s
+
+SUppre
+
+58 hig
+
+U on the one h
+
+and wirh
+
+5 almos
+
+Emotionas lack
+
+UVerexc Mement
+
+1dmir Ing
+
+* Impossibje to
+
+love anc
+
+achieye
+
+ad he
+
+1, on the Other,
+
+1 results n
+
+%
+
+,
+
+J7 —"
+[2025-12-29T23:59:45.009934] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070781981.png
+[2025-12-29T23:59:45.012183] TTS: converting output to speech - "í
+
+"ON and dí
+
+vim
+
+Mrretly hu
+
+ron |
+
+an
+
+*Ometime
+
+Olten reflec ted in
+
+relations
+
+“ SExU,
+
+CXualin
+
+T
+
+j
+
+ship
+
+and other time
+
+a
+
+ction o
+
+atlectivipy
+
+% In
+
+U renunej Mion
+
+10 fay
+
+! whay
+
+Which can re
+
+"N exago
+
+or of 1h
+
+1e divine
+
+ach
+
+Crate Crolicisy dí
+
+EXlremely SExU
+
+! Hum into pery
+
+Ersion
+
+al, the per
+
+SO0 of (s
+
+erefore
+
+*connecteg !rom
+
+IN sex His erot
+
+s char
+
+although he
+
+Confuse
+
+1 love, be
+
+"cter does
+
+Y ot s
+
+INg 50 ide
+
+alized, s
+
+SUppre
+
+58 hig
+
+U on the one h
+
+and wirh
+
+5 almos
+
+Emotionas lack
+
+UVerexc Mement
+
+1dmir Ing
+
+* Impossibje to
+
+love anc
+
+achieye
+
+ad he
+
+1, on the Other,
+
+1 results n
+
+%
+
+,
+
+J7 —"
+[2025-12-29T23:59:45.018471] TTS: converted output to speech
+[2025-12-29T23:59:45.986059] ESP32: capture - starting
+[2025-12-29T23:59:46.218433] ESP32: capture - finished (42204 bytes)
+[2025-12-29T23:59:46.221269] OCR: recognizeText - starting
+[2025-12-29T23:59:46.251779] OCR: processing image - 42204 bytes
+[2025-12-29T23:59:46.368851] OCR: original size: 1024x768
+[2025-12-29T23:59:46.382830] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:46.582203] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070786578.png
+[2025-12-29T23:59:46.584498] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:50.716125] OCR: finished - result: "n
+
+"“
+
+as are
+
+jection of what
+
+xuality
+
+eflected 10 sE
+
+divine
+
+divinizat
+
+jon is often T
+
+avor of the
+
+and
+
+a sexual ren
+
+unciation iN f
+
+from
+
+Jdealization
+
+as
+
+hcnnncclcd
+
+omelimes
+
+yeral
+
+ed eroticism d
+
+is stric
+
+(1y human, $
+
+in an exa
+
+Therelore,
+
+although he '\»s
+
+n
+
+and other tumes
+
+ationship
+
+to perv ersion
+
+not suppr
+
+ess s emot
+
+each turn iN
+
+acter does
+
+y, which can r
+
+char
+
+sibl
+
+e 1o achievos
+
+affectivit
+
+11, the pe!
+
+rson ol this
+
+ost impos:
+
+XU
+
+zed,is alm
+
+er, it results n
+
+cxhcmuh— se
+
+; love, bel
+
+ng so jdeall
+
+1, 0n the oth
+
+e
+
+admirt
+
+ne love anc
+
+w
+
+a uex: His €10
+
+d with
+
+e one h
+
+con!
+
+fhunes it 0N UN
+
+…f¡nwuwnl
+
+T"
+[2025-12-29T23:59:50.723941] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070786578.png
+[2025-12-29T23:59:50.732776] TTS: converting output to speech - "n
+
+"“
+
+as are
+
+jection of what
+
+xuality
+
+eflected 10 sE
+
+divine
+
+divinizat
+
+jon is often T
+
+avor of the
+
+and
+
+a sexual ren
+
+unciation iN f
+
+from
+
+Jdealization
+
+as
+
+hcnnncclcd
+
+omelimes
+
+yeral
+
+ed eroticism d
+
+is stric
+
+(1y human, $
+
+in an exa
+
+Therelore,
+
+although he '\»s
+
+n
+
+and other tumes
+
+ationship
+
+to perv ersion
+
+not suppr
+
+ess s emot
+
+each turn iN
+
+acter does
+
+y, which can r
+
+char
+
+sibl
+
+e 1o achievos
+
+affectivit
+
+11, the pe!
+
+rson ol this
+
+ost impos:
+
+XU
+
+zed,is alm
+
+er, it results n
+
+cxhcmuh— se
+
+; love, bel
+
+ng so jdeall
+
+1, 0n the oth
+
+e
+
+admirt
+
+ne love anc
+
+w
+
+a uex: His €10
+
+d with
+
+e one h
+
+con!
+
+fhunes it 0N UN
+
+…f¡nwuwnl
+
+T"
+[2025-12-29T23:59:50.739671] TTS: converted output to speech
+[2025-12-29T23:59:51.901852] ESP32: capture - starting
+[2025-12-29T23:59:52.335811] ESP32: capture - finished (39944 bytes)
+[2025-12-29T23:59:52.338066] OCR: recognizeText - starting
+[2025-12-29T23:59:52.340421] OCR: processing image - 39944 bytes
+[2025-12-29T23:59:52.523940] OCR: original size: 1024x768
+[2025-12-29T23:59:52.558340] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:52.788464] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070792777.png
+[2025-12-29T23:59:52.790586] OCR: running tesseract (psm=11,oem=1)
+[2025-12-29T23:59:56.013509] OCR: finished - result: "sa
+
+16
+
+tjon of w
+
+as a rejes
+
+se xuality
+
+reflected
+
+or of th
+
+divine
+
+fav
+
+ar
+
+jon s ofte
+
+1 ¡cmmú
+
+ato
+
+nne
+
+ee
+
+¡tjon AN
+
+1 div i17
+
+a sexua
+
+Tdeah
+
+g as a
+
+ed eroticis
+
+e, a
+
+o, althoW!
+
+gh he
+
+pumar
+
+1 …mdmw
+
+n an exaB
+
+ger al
+
+motiona
+
+sticty
+
+¡her UME
+
+on rheretor
+
+.55 hi
+
+and
+
+n into P
+
+o does 1O
+
+1 supr
+
+y achieve:
+
+relatior
+
+si
+
+h tur
+
+sibl
+
+¿h can €8¢
+
+{his char?
+
+almost ¥ p
+
+alts 1
+
+{fect
+
+vity, whi
+
+rson
+
+Ta
+
+'¿¡|t=5
+
+mely sex
+
+ya, the PE
+
+so Y
+
+dealized
+
+nd, 0n
+
+xwe
+
+e, beir
+
+glo
+
+rotic
+
+and Wit
+
+p admin®
+
+w
+
+y sex s €
+
+the on€ h
+
+on
+
+confuses “
+
+yyerexci'
+
+emen'
+
+¡"
+[2025-12-29T23:59:56.022435] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070792777.png
+[2025-12-29T23:59:56.030889] TTS: converting output to speech - "sa
+
+16
+
+tjon of w
+
+as a rejes
+
+se xuality
+
+reflected
+
+or of th
+
+divine
+
+fav
+
+ar
+
+jon s ofte
+
+1 ¡cmmú
+
+ato
+
+nne
+
+ee
+
+¡tjon AN
+
+1 div i17
+
+a sexua
+
+Tdeah
+
+g as a
+
+ed eroticis
+
+e, a
+
+o, althoW!
+
+gh he
+
+pumar
+
+1 …mdmw
+
+n an exaB
+
+ger al
+
+motiona
+
+sticty
+
+¡her UME
+
+on rheretor
+
+.55 hi
+
+and
+
+n into P
+
+o does 1O
+
+1 supr
+
+y achieve:
+
+relatior
+
+si
+
+h tur
+
+sibl
+
+¿h can €8¢
+
+{his char?
+
+almost ¥ p
+
+alts 1
+
+{fect
+
+vity, whi
+
+rson
+
+Ta
+
+'¿¡|t=5
+
+mely sex
+
+ya, the PE
+
+so Y
+
+dealized
+
+nd, 0n
+
+xwe
+
+e, beir
+
+glo
+
+rotic
+
+and Wit
+
+p admin®
+
+w
+
+y sex s €
+
+the on€ h
+
+on
+
+confuses “
+
+yyerexci'
+
+emen'
+
+¡"
+[2025-12-29T23:59:56.039490] TTS: converted output to speech
+[2025-12-29T23:59:56.998972] ESP32: capture - starting
+[2025-12-29T23:59:57.437104] ESP32: capture - finished (39892 bytes)
+[2025-12-29T23:59:57.439375] OCR: recognizeText - starting
+[2025-12-29T23:59:57.441570] OCR: processing image - 39892 bytes
+[2025-12-29T23:59:57.560301] OCR: original size: 1024x768
+[2025-12-29T23:59:57.589770] OCR: upscaled to: 1024x768
+[2025-12-29T23:59:57.796968] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070797787.png
+[2025-12-29T23:59:57.799097] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:00.952110] OCR: finished - result: "a
+
+e =
+
+xuality
+
+cte
+
+dvine
+
+en r
+
+en
+
+favor ©
+
+,n
+
+sCO
+
+10d 1O
+
+jon 15 € -
+
+ual ren
+
+dí ¡ml—“
+
+4 eroticr
+
+eal7
+
+sñon &
+
+m
+
+xaL:
+
+gera
+
+erefore
+
+emo
+
+1d
+
+AY
+
+y hu
+
+rsi0n
+
+PP
+
+pieve
+
+anide
+
+1s
+
+ATy
+
+ey 0P e
+
+into PE
+
+cier
+
+o
+
+es not
+
+e 10
+
+yH onShIT
+
+¡eh es
+
+js cha
+
+¡most IP
+
+“ ¡º'““sm
+
+¿ perso
+
+on v
+
+Tu
+
+jectiv 1
+
+"
+
+so i
+
+deal7
+
+¿min
+
+g lo
+
+xireme
+
+TO
+
+n
+
+e 1A
+
+an
+
+ú
+
+n Se
+
+he 0'
+
+yses !
+
+conty
+
+“E
+
+averexe
+
+¡remen!
+
+=3"
+[2025-12-30T00:00:00.956128] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070797787.png
+[2025-12-30T00:00:00.958555] TTS: converting output to speech - "a
+
+e =
+
+xuality
+
+cte
+
+dvine
+
+en r
+
+en
+
+favor ©
+
+,n
+
+sCO
+
+10d 1O
+
+jon 15 € -
+
+ual ren
+
+dí ¡ml—“
+
+4 eroticr
+
+eal7
+
+sñon &
+
+m
+
+xaL:
+
+gera
+
+erefore
+
+emo
+
+1d
+
+AY
+
+y hu
+
+rsi0n
+
+PP
+
+pieve
+
+anide
+
+1s
+
+ATy
+
+ey 0P e
+
+into PE
+
+cier
+
+o
+
+es not
+
+e 10
+
+yH onShIT
+
+¡eh es
+
+js cha
+
+¡most IP
+
+“ ¡º'““sm
+
+¿ perso
+
+on v
+
+Tu
+
+jectiv 1
+
+"
+
+so i
+
+deal7
+
+¿min
+
+g lo
+
+xireme
+
+TO
+
+n
+
+e 1A
+
+an
+
+ú
+
+n Se
+
+he 0'
+
+yses !
+
+conty
+
+“E
+
+averexe
+
+¡remen!
+
+=3"
+[2025-12-30T00:00:00.969885] TTS: converted output to speech
+[2025-12-30T00:00:01.915923] ESP32: capture - starting
+[2025-12-30T00:00:02.591084] ESP32: capture - finished (37817 bytes)
+[2025-12-30T00:00:02.593216] OCR: recognizeText - starting
+[2025-12-30T00:00:02.594955] OCR: processing image - 37817 bytes
+[2025-12-30T00:00:02.711558] OCR: original size: 1024x768
+[2025-12-30T00:00:02.739343] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:02.948696] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070802941.png
+[2025-12-30T00:00:02.950726] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:08.018422] OCR: finished - result: "—
+
+- it
+
+yject
+
+on of
+
+ar
+
+exua
+
+e ¿vi
+
+u
+
+c…& n s
+
+VO
+
+¿ed 509
+
+a
+
+«conBEe
+
+divint
+
+zation 15<
+
+yuncy
+
+"EC
+
+,, 2
+
+3 ero!
+
+úicism
+
+phougo
+
+¥
+
+-17
+
+yetimes
+
+aLe
+
+era
+
+y
+
+ye
+
+an
+
+n Therelor”
+
+m
+
+.
+
+áy T
+
+e U
+
+rsio
+
+ess s
+
+e, U
+
+e
+
+i 00
+
+o PE
+
+d0€
+
+2 1 SCE
+
+. A Tm Y
+
+ arac
+
+qer O
+
+Da
+
+bk
+
+s
+
+ea
+
+ot
+
+"=
+
+of s ©
+
+m
+
+# e
+
+e
+
+we y
+
+4 €
+
+cd. ¥
+
+e
+
+be
+
+o0
+
+Ne
+
+yre
+
+on
+
+¿ly =
+
+Ne
+
+o
+
+0
+
+X
+
+p e
+
+ges: 1r €
+
+u
+
+a
+
+¿
+
+e €
+
+—
+
+. *
+
+o
+
+T
+
+au"
+[2025-12-30T00:00:08.024829] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070802941.png
+[2025-12-30T00:00:08.027128] TTS: converting output to speech - "—
+
+- it
+
+yject
+
+on of
+
+ar
+
+exua
+
+e ¿vi
+
+u
+
+c…& n s
+
+VO
+
+¿ed 509
+
+a
+
+«conBEe
+
+divint
+
+zation 15<
+
+yuncy
+
+"EC
+
+,, 2
+
+3 ero!
+
+úicism
+
+phougo
+
+¥
+
+-17
+
+yetimes
+
+aLe
+
+era
+
+y
+
+ye
+
+an
+
+n Therelor”
+
+m
+
+.
+
+áy T
+
+e U
+
+rsio
+
+ess s
+
+e, U
+
+e
+
+i 00
+
+o PE
+
+d0€
+
+2 1 SCE
+
+. A Tm Y
+
+ arac
+
+qer O
+
+Da
+
+bk
+
+s
+
+ea
+
+ot
+
+"=
+
+of s ©
+
+m
+
+# e
+
+e
+
+we y
+
+4 €
+
+cd. ¥
+
+e
+
+be
+
+o0
+
+Ne
+
+yre
+
+on
+
+¿ly =
+
+Ne
+
+o
+
+0
+
+X
+
+p e
+
+ges: 1r €
+
+u
+
+a
+
+¿
+
+e €
+
+—
+
+. *
+
+o
+
+T
+
+au"
+[2025-12-30T00:00:08.040057] TTS: converted output to speech
+[2025-12-30T00:00:09.033110] ESP32: capture - starting
+[2025-12-30T00:00:09.178279] ESP32: capture - finished (44034 bytes)
+[2025-12-30T00:00:09.179885] OCR: recognizeText - starting
+[2025-12-30T00:00:09.181216] OCR: processing image - 44034 bytes
+[2025-12-30T00:00:09.309745] OCR: original size: 1024x768
+[2025-12-30T00:00:09.337807] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:09.548143] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070809535.png
+[2025-12-30T00:00:09.570517] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:12.552240] OCR: finished - result: "E
+
+TE
+
+s
+
+ol
+
+<)
+
+¢s:\.\\‘D
+
+v
+
+-Mecte
+
+ravor O
+
+¥
+
+ation
+
+«acd I
+
+78
+
+S
+
+sco
+
+diviny
+
+N eroter
+
+ow
+
+ato!
+
+gera
+
+¡ona |
+
+1 z
+
+etimes
+
+erefor
+
+ess
+
+s
+
+ersion.
+
+an
+
+sc
+
+¿her ME
+
+nto P
+
+oes T
+
+109
+
+¿meve
+
+s W
+
+Jations .
+
+1s
+
+el
+
+Amos!
+
+mpos
+
+s
+
+nieh €
+
+a
+
+chvity
+
+al
+
+VCÍ 5
+
+deal
+
+oV
+
+exremey
+
+aminine
+
+s
+
+erot
+
+me ¥
+
+jLon wme
+
+—
+
+conf
+
+.”
+
+b -
+
+c‘f‘c\\c
+
+men!"
+[2025-12-30T00:00:12.557787] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070809535.png
+[2025-12-30T00:00:12.559985] TTS: converting output to speech - "E
+
+TE
+
+s
+
+ol
+
+<)
+
+¢s:\.\\‘D
+
+v
+
+-Mecte
+
+ravor O
+
+¥
+
+ation
+
+«acd I
+
+78
+
+S
+
+sco
+
+diviny
+
+N eroter
+
+ow
+
+ato!
+
+gera
+
+¡ona |
+
+1 z
+
+etimes
+
+erefor
+
+ess
+
+s
+
+ersion.
+
+an
+
+sc
+
+¿her ME
+
+nto P
+
+oes T
+
+109
+
+¿meve
+
+s W
+
+Jations .
+
+1s
+
+el
+
+Amos!
+
+mpos
+
+s
+
+nieh €
+
+a
+
+chvity
+
+al
+
+VCÍ 5
+
+deal
+
+oV
+
+exremey
+
+aminine
+
+s
+
+erot
+
+me ¥
+
+jLon wme
+
+—
+
+conf
+
+.”
+
+b -
+
+c‘f‘c\\c
+
+men!"
+[2025-12-30T00:00:12.569206] TTS: converted output to speech
+[2025-12-30T00:00:14.815630] ESP32: capture - starting
+[2025-12-30T00:00:15.279910] ESP32: capture - finished (44331 bytes)
+[2025-12-30T00:00:15.285674] OCR: recognizeText - starting
+[2025-12-30T00:00:15.288537] OCR: processing image - 44331 bytes
+[2025-12-30T00:00:15.427656] OCR: original size: 1024x768
+[2025-12-30T00:00:15.458772] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:15.665156] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070815656.png
+[2025-12-30T00:00:15.667846] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:19.327540] OCR: finished - result: "ae
+
+uo
+
+nof
+
+y a5
+
+= div
+
+cted
+
+seX
+
+re
+
+ee
+
+or o
+
+cu
+
+¿ed fro™
+
+Tu
+
+o
+
+Su
+
+1s
+
+he y
+
+Az
+
+QLY
+
+(mes
+
+merefo
+
+e suond
+
+1de a
+
+7
+
+SELÁ a
+
+ess
+
+ENE an
+
+¡ersio
+
+=
+
+acht
+
+amº“ y
+
+d o
+
+Tu
+
+re
+
+ew”
+
+p
+
+15
+
+ca
+
+ost r
+
+sulis
+
+¡¡,h“º“
+
+n can T
+
+his €
+
+sa
+
+¢ Of
+
+her, 157
+
+iy
+
+erson
+
+deal
+
+-
+
+fecty
+
+yal
+
+o
+
+ng lo
+
+“C
+
+i …mu
+
+1 om (0
+
+PE
+
+ye
+
+rexciemen
+
+4"
+[2025-12-30T00:00:19.332885] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070815656.png
+[2025-12-30T00:00:19.335209] TTS: converting output to speech - "ae
+
+uo
+
+nof
+
+y a5
+
+= div
+
+cted
+
+seX
+
+re
+
+ee
+
+or o
+
+cu
+
+¿ed fro™
+
+Tu
+
+o
+
+Su
+
+1s
+
+he y
+
+Az
+
+QLY
+
+(mes
+
+merefo
+
+e suond
+
+1de a
+
+7
+
+SELÁ a
+
+ess
+
+ENE an
+
+¡ersio
+
+=
+
+acht
+
+amº“ y
+
+d o
+
+Tu
+
+re
+
+ew”
+
+p
+
+15
+
+ca
+
+ost r
+
+sulis
+
+¡¡,h“º“
+
+n can T
+
+his €
+
+sa
+
+¢ Of
+
+her, 157
+
+iy
+
+erson
+
+deal
+
+-
+
+fecty
+
+yal
+
+o
+
+ng lo
+
+“C
+
+i …mu
+
+1 om (0
+
+PE
+
+ye
+
+rexciemen
+
+4"
+[2025-12-30T00:00:19.345401] TTS: converted output to speech
+[2025-12-30T00:00:19.945336] ESP32: capture - starting
+[2025-12-30T00:00:20.373211] ESP32: capture - finished (45677 bytes)
+[2025-12-30T00:00:20.375432] OCR: recognizeText - starting
+[2025-12-30T00:00:20.376937] OCR: processing image - 45677 bytes
+[2025-12-30T00:00:20.497137] OCR: original size: 1024x768
+[2025-12-30T00:00:20.528607] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:20.736001] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070820726.png
+[2025-12-30T00:00:20.737902] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:24.539864] OCR: finished - result: "A
+
+.
+
+A
+
+E
+
+á
+
+E
+
+ol ¥
+
+ey
+
+es 0n
+
+Avine
+
+ses
+
+yal
+
+Ta
+
+of o
+
+cN
+
+¿d 1O
+
+o
+
+¿ia
+
+1s
+
+yue
+
+1S
+
+0
+
+iN 17
+
+ual
+
+0Ta
+
+mes *
+
+Theret®
+
+G
+
+ss
+
+m……n
+
+Ne
+
+es.
+
+n exager
+
+ers!
+
+TS
+
+eve.
+
+er W
+
+no
+
+pie 1o
+
+¿C
+
+a m
+
+fN
+
+qer &
+
+055
+
+sols *
+
+ee
+
+a)mo s:
+
+et
+
+o
+
+canT
+
+i €5
+
+1s
+
+e
+
+perso
+
+fc
+
+exva
+
+eS
+
+ove *
+
+air
+
+Xe
+
+- eroe
+
+QW
+
+[
+
+T
+
+o ON
+
+PE
+
+jemen
+
+eX"
+[2025-12-30T00:00:24.546996] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070820726.png
+[2025-12-30T00:00:24.549101] TTS: converting output to speech - "A
+
+.
+
+A
+
+E
+
+á
+
+E
+
+ol ¥
+
+ey
+
+es 0n
+
+Avine
+
+ses
+
+yal
+
+Ta
+
+of o
+
+cN
+
+¿d 1O
+
+o
+
+¿ia
+
+1s
+
+yue
+
+1S
+
+0
+
+iN 17
+
+ual
+
+0Ta
+
+mes *
+
+Theret®
+
+G
+
+ss
+
+m……n
+
+Ne
+
+es.
+
+n exager
+
+ers!
+
+TS
+
+eve.
+
+er W
+
+no
+
+pie 1o
+
+¿C
+
+a m
+
+fN
+
+qer &
+
+055
+
+sols *
+
+ee
+
+a)mo s:
+
+et
+
+o
+
+canT
+
+i €5
+
+1s
+
+e
+
+perso
+
+fc
+
+exva
+
+eS
+
+ove *
+
+air
+
+Xe
+
+- eroe
+
+QW
+
+[
+
+T
+
+o ON
+
+PE
+
+jemen
+
+eX"
+[2025-12-30T00:00:24.559634] TTS: converted output to speech
+[2025-12-30T00:00:25.111775] ESP32: capture - starting
+[2025-12-30T00:00:25.446107] ESP32: capture - finished (34727 bytes)
+[2025-12-30T00:00:25.452253] OCR: recognizeText - starting
+[2025-12-30T00:00:25.454675] OCR: processing image - 34727 bytes
+[2025-12-30T00:00:25.570902] OCR: original size: 1024x768
+[2025-12-30T00:00:25.604482] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:25.798185] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070825790.png
+[2025-12-30T00:00:25.800332] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:29.443197] OCR: finished - result: "Ielouliz
+
+Mion and divinization |
+
+ollen reflected in
+
+siy
+
+la sirietly human.
+
+ometimes ay
+
+45 a rejection of whar
+
+A sextal renuneiation in favor
+
+ol the divine
+
+relutionabiip, and otler e
+
+1n an exngpernted erotion
+
+Mieot viy
+
+whi
+
+s disconnected frong
+
+h can reneh turn into pervenion
+
+Belremo)y
+
+herefire, although e 1
+
+|
+
+sl the y
+
+Ton of this ehinmeter di
+
+n
+
+u
+
+MHi
+
+emliv lv
+
+I
+
+Hel ALpyyaress lil erii aal Iel
+
+AL T [T T P I de Y il
+
+ST
+
+W
+
+" o
+
+N b cehidees gl e
+
+LT T T R T |
+
+LT T T U
+
+F
+
+M
+
+El
+
+_
+
+a"
+[2025-12-30T00:00:29.448075] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070825790.png
+[2025-12-30T00:00:29.450177] TTS: converting output to speech - "Ielouliz
+
+Mion and divinization |
+
+ollen reflected in
+
+siy
+
+la sirietly human.
+
+ometimes ay
+
+45 a rejection of whar
+
+A sextal renuneiation in favor
+
+ol the divine
+
+relutionabiip, and otler e
+
+1n an exngpernted erotion
+
+Mieot viy
+
+whi
+
+s disconnected frong
+
+h can reneh turn into pervenion
+
+Belremo)y
+
+herefire, although e 1
+
+|
+
+sl the y
+
+Ton of this ehinmeter di
+
+n
+
+u
+
+MHi
+
+emliv lv
+
+I
+
+Hel ALpyyaress lil erii aal Iel
+
+AL T [T T P I de Y il
+
+ST
+
+W
+
+" o
+
+N b cehidees gl e
+
+LT T T R T |
+
+LT T T U
+
+F
+
+M
+
+El
+
+_
+
+a"
+[2025-12-30T00:00:29.459741] TTS: converted output to speech
+[2025-12-30T00:00:30.320877] ESP32: capture - starting
+[2025-12-30T00:00:30.546127] ESP32: capture - finished (37903 bytes)
+[2025-12-30T00:00:30.552978] OCR: recognizeText - starting
+[2025-12-30T00:00:30.555952] OCR: processing image - 37903 bytes
+[2025-12-30T00:00:30.678985] OCR: original size: 1024x768
+[2025-12-30T00:00:30.717128] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:30.911515] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070830902.png
+[2025-12-30T00:00:30.913128] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:33.138954] OCR: finished - result: "de
+
+zati
+
+tracth
+
+m
+
+often re
+
+an.
+
+me
+
+reje
+
+-
+
+lre
+
+relationshig
+
+other times, in an
+
+uciation in favor of the
+
+;
+
+vine
+
+affec
+
+agg
+
+erated erotic;
+
+iy,
+
+which can reach
+
+m di
+
+sconnected from
+
+tum into perversion
+
+Extreme y
+
+sexual
+
+Therefore, although he is
+
+the person of this chi;
+
+aracter does not s
+
+mn sex: His erotic lov
+
+» being so idealized,
+
+“PPress his emotional Jack
+
+Eonfuses it on the one
+
+1s almost 1mp
+
+and with
+
+admiring love
+
+ossible to achieve, and he
+
+tivere:
+
+Mement
+
+and, on the other, jt Tesults in"
+[2025-12-30T00:00:33.146719] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070830902.png
+[2025-12-30T00:00:33.149595] TTS: converting output to speech - "de
+
+zati
+
+tracth
+
+m
+
+often re
+
+an.
+
+me
+
+reje
+
+-
+
+lre
+
+relationshig
+
+other times, in an
+
+uciation in favor of the
+
+;
+
+vine
+
+affec
+
+agg
+
+erated erotic;
+
+iy,
+
+which can reach
+
+m di
+
+sconnected from
+
+tum into perversion
+
+Extreme y
+
+sexual
+
+Therefore, although he is
+
+the person of this chi;
+
+aracter does not s
+
+mn sex: His erotic lov
+
+» being so idealized,
+
+“PPress his emotional Jack
+
+Eonfuses it on the one
+
+1s almost 1mp
+
+and with
+
+admiring love
+
+ossible to achieve, and he
+
+tivere:
+
+Mement
+
+and, on the other, jt Tesults in"
+[2025-12-30T00:00:33.156420] TTS: converted output to speech
+[2025-12-30T00:00:33.801905] ESP32: capture - starting
+[2025-12-30T00:00:34.127797] ESP32: capture - finished (37779 bytes)
+[2025-12-30T00:00:34.130562] OCR: recognizeText - starting
+[2025-12-30T00:00:34.132232] OCR: processing image - 37779 bytes
+[2025-12-30T00:00:34.247865] OCR: original size: 1024x768
+[2025-12-30T00:00:34.282149] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:34.475598] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070834471.png
+[2025-12-30T00:00:34.477412] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:37.066661] OCR: finished - result: "Idenlization anc
+
+15 strietly hunian, s
+
+1 divinization ¡x olten reflected ¡n
+
+wlity a
+
+f
+
+Sometimes as a s
+
+1 reje
+
+tion
+
+what
+
+relationship,
+
+ind other times,
+
+vexual renuncintion in favor of the díy
+
+1ne
+
+Mlectivit
+
+an exaggerated erot
+
+» Which can y
+
+Icism disconnected from
+
+neh turn into pervers
+
+10n. Therefore
+
+although he s
+
+Extremely sexual, the per
+
+Sson of this charac
+
+ter do:
+
+Insex: His erotic love, h
+
+not supy
+
+'me so idealized, ¡s
+
+ress his emotional lack
+
+£onfuses it on the
+
+$ almost impossible to
+
+one hand with
+
+admirin;
+
+achieve, and he
+
+Overexcitement
+
+love and, on the oth
+
+» 1 results ¿n"
+[2025-12-30T00:00:37.077161] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070834471.png
+[2025-12-30T00:00:37.079852] TTS: converting output to speech - "Idenlization anc
+
+15 strietly hunian, s
+
+1 divinization ¡x olten reflected ¡n
+
+wlity a
+
+f
+
+Sometimes as a s
+
+1 reje
+
+tion
+
+what
+
+relationship,
+
+ind other times,
+
+vexual renuncintion in favor of the díy
+
+1ne
+
+Mlectivit
+
+an exaggerated erot
+
+» Which can y
+
+Icism disconnected from
+
+neh turn into pervers
+
+10n. Therefore
+
+although he s
+
+Extremely sexual, the per
+
+Sson of this charac
+
+ter do:
+
+Insex: His erotic love, h
+
+not supy
+
+'me so idealized, ¡s
+
+ress his emotional lack
+
+£onfuses it on the
+
+$ almost impossible to
+
+one hand with
+
+admirin;
+
+achieve, and he
+
+Overexcitement
+
+love and, on the oth
+
+» 1 results ¿n"
+[2025-12-30T00:00:37.093850] TTS: converted output to speech
+[2025-12-30T00:00:37.841558] ESP32: capture - starting
+[2025-12-30T00:00:38.210562] ESP32: capture - finished (36103 bytes)
+[2025-12-30T00:00:38.216174] OCR: recognizeText - starting
+[2025-12-30T00:00:38.218624] OCR: processing image - 36103 bytes
+[2025-12-30T00:00:38.344192] OCR: original size: 1024x768
+[2025-12-30T00:00:38.373910] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:38.563431] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070838560.png
+[2025-12-30T00:00:38.564750] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:41.349556] OCR: finished - result: "Klealization and divinization is
+
+often reflected in se
+
+T
+
+uali
+
+d
+
+N
+
+hat
+
+sinetly human, sometimes
+
+14 a sexual renunciation in f
+
+vor of the
+
+relationahip, and other tim
+
+10 an exy
+
+erated eroticiam disconn
+
+ted fy
+
+m
+
+alfevtivity, whiich «
+
+n rench turn into
+
+perversion. Therefore
+
+although he y
+
+Extremely sexual, He pory
+
+son of this chameter does
+
+not suppre
+
+M sex: His erotic loy
+
+. being mo (a
+
+hus emotional Juek
+
+lenlized, in almost Impossible t
+
+» nehiieve
+
+Bontuses it on th one
+
+ad he
+
+Overexoitement
+
+hane with admiring love and on the other
+
+U results m"
+[2025-12-30T00:00:41.359549] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070838560.png
+[2025-12-30T00:00:41.363471] TTS: converting output to speech - "Klealization and divinization is
+
+often reflected in se
+
+T
+
+uali
+
+d
+
+N
+
+hat
+
+sinetly human, sometimes
+
+14 a sexual renunciation in f
+
+vor of the
+
+relationahip, and other tim
+
+10 an exy
+
+erated eroticiam disconn
+
+ted fy
+
+m
+
+alfevtivity, whiich «
+
+n rench turn into
+
+perversion. Therefore
+
+although he y
+
+Extremely sexual, He pory
+
+son of this chameter does
+
+not suppre
+
+M sex: His erotic loy
+
+. being mo (a
+
+hus emotional Juek
+
+lenlized, in almost Impossible t
+
+» nehiieve
+
+Bontuses it on th one
+
+ad he
+
+Overexoitement
+
+hane with admiring love and on the other
+
+U results m"
+[2025-12-30T00:00:41.373502] TTS: converted output to speech
+[2025-12-30T00:00:42.030011] ESP32: capture - starting
+[2025-12-30T00:00:42.314038] ESP32: capture - finished (34785 bytes)
+[2025-12-30T00:00:42.319515] OCR: recognizeText - starting
+[2025-12-30T00:00:42.321814] OCR: processing image - 34785 bytes
+[2025-12-30T00:00:42.445197] OCR: original size: 1024x768
+[2025-12-30T00:00:42.474023] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:42.669637] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070842661.png
+[2025-12-30T00:00:42.671488] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:45.358377] OCR: finished - result: "Idenlization and divini
+
+atton la often reflected in
+
+talyt
+
+A8 striotly hinan,
+
+omerme
+
+A A Rox el renuncialion in r
+
+r
+
+relatonskip, and ol
+
+T ime
+
+In an exapgeriod
+
+roticiam di
+
+e
+
+I
+
+affuctiviy
+
+Whish can rench rurn into
+
+per
+
+enion
+
+1 here
+
+r
+
+11,
+
+!
+
+Extremo!y
+
+xunl, the person of hi
+
+ehameter
+
+L
+
+nol
+
+uppr
+
+ha
+
+M sex: HMin ¢
+
+ME love
+
+al Iah
+
+eing so idenlizad, |
+
+almost impossible t
+
+ac hue
+
+vonfumes it o the
+
+e hand with nc
+
+rud le
+
+Imiring love and, on the other
+
+u
+
+OvererciLemen;
+
+It"
+[2025-12-30T00:00:45.365798] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070842661.png
+[2025-12-30T00:00:45.369125] TTS: converting output to speech - "Idenlization and divini
+
+atton la often reflected in
+
+talyt
+
+A8 striotly hinan,
+
+omerme
+
+A A Rox el renuncialion in r
+
+r
+
+relatonskip, and ol
+
+T ime
+
+In an exapgeriod
+
+roticiam di
+
+e
+
+I
+
+affuctiviy
+
+Whish can rench rurn into
+
+per
+
+enion
+
+1 here
+
+r
+
+11,
+
+!
+
+Extremo!y
+
+xunl, the person of hi
+
+ehameter
+
+L
+
+nol
+
+uppr
+
+ha
+
+M sex: HMin ¢
+
+ME love
+
+al Iah
+
+eing so idenlizad, |
+
+almost impossible t
+
+ac hue
+
+vonfumes it o the
+
+e hand with nc
+
+rud le
+
+Imiring love and, on the other
+
+u
+
+OvererciLemen;
+
+It"
+[2025-12-30T00:00:45.375789] TTS: converted output to speech
+[2025-12-30T00:00:46.187047] ESP32: capture - starting
+[2025-12-30T00:00:46.391944] ESP32: capture - finished (35352 bytes)
+[2025-12-30T00:00:46.393618] OCR: recognizeText - starting
+[2025-12-30T00:00:46.395681] OCR: processing image - 35352 bytes
+[2025-12-30T00:00:46.510943] OCR: original size: 1024x768
+[2025-12-30T00:00:46.540084] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:46.736454] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070846727.png
+[2025-12-30T00:00:46.738255] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:49.631354] OCR: finished - result: "Wienlization and divinization is often reflected in
+
+vi
+
+1
+
+'
+
+1n
+
+f
+
+1 sty human, sometimes as y
+
+sexua) renunciation in fa
+
+"
+
+ol the
+
+li
+
+r
+
+tonship, and other timo
+
+1 IN an exaggemited eroticiam disconn:
+
+1
+
+1ú
+
+m
+
+affectivity, which can re
+
+aeh turn into p
+
+version
+
+Therefore
+
+although |
+
+h
+
+Extremely
+
+sexual, the person of this charneter doe
+
+s ot
+
+uppre
+
+hi
+
+em
+
+1al lack
+
+wowex Uís
+
+olic love, being xo idenlized, |
+
+almost impossible to achie
+
+aul he
+
+confusos
+
+8 on the one hand with udmiring
+
+love
+
+a, on the other, it
+
+overexcitement
+
+results i"
+[2025-12-30T00:00:49.640561] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070846727.png
+[2025-12-30T00:00:49.643038] TTS: converting output to speech - "Wienlization and divinization is often reflected in
+
+vi
+
+1
+
+'
+
+1n
+
+f
+
+1 sty human, sometimes as y
+
+sexua) renunciation in fa
+
+"
+
+ol the
+
+li
+
+r
+
+tonship, and other timo
+
+1 IN an exaggemited eroticiam disconn:
+
+1
+
+1ú
+
+m
+
+affectivity, which can re
+
+aeh turn into p
+
+version
+
+Therefore
+
+although |
+
+h
+
+Extremely
+
+sexual, the person of this charneter doe
+
+s ot
+
+uppre
+
+hi
+
+em
+
+1al lack
+
+wowex Uís
+
+olic love, being xo idenlized, |
+
+almost impossible to achie
+
+aul he
+
+confusos
+
+8 on the one hand with udmiring
+
+love
+
+a, on the other, it
+
+overexcitement
+
+results i"
+[2025-12-30T00:00:49.650224] TTS: converted output to speech
+[2025-12-30T00:00:50.224009] ESP32: capture - starting
+[2025-12-30T00:00:50.484953] ESP32: capture - finished (36753 bytes)
+[2025-12-30T00:00:50.486894] OCR: recognizeText - starting
+[2025-12-30T00:00:50.488200] OCR: processing image - 36753 bytes
+[2025-12-30T00:00:50.605807] OCR: original size: 1024x768
+[2025-12-30T00:00:50.635543] OCR: upscaled to: 1024x768
+[2025-12-30T00:00:50.832100] OCR: saved temp image at /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070850823.png
+[2025-12-30T00:00:50.834187] OCR: running tesseract (psm=11,oem=1)
+[2025-12-30T00:00:52.950336] OCR: finished - result: "Idenlization and divinization is often reflected in
+
+T
+
+it
+
+1e atnetly human
+
+sometimes as a sexual renunciation in favor of th
+
+r
+
+relationship, and other time
+
+, In an exaggerated eroticism disconn:
+
+C
+
+-
+
+!í
+
+alfectivity, which can reach tum into pervers
+
+sion
+
+Therefore
+
+L
+
+although h
+
+Extremely sexunl, the person of this chi
+
+r
+
+cter does not suppress hi
+
+emotion
+
+I
+
+l
+
+lack
+
+M sex: His erotic love, being so idealized, is almos
+
+1 impossible to a
+
+hieve
+
+and he
+
+confuses 1t on the
+
+one hand with admiring love
+
+and, on the other, it resulte in
+
+Dverexcitement"
+[2025-12-30T00:00:52.955677] OCR: cleaned temp file /data/user/0/com.prototype.artificial_vision/cache/ocr_1767070850823.png
+[2025-12-30T00:00:52.958049] TTS: converting output to speech - "Idenlization and divinization is often reflected in
+
+T
+
+it
+
+1e atnetly human
+
+sometimes as a sexual renunciation in favor of th
+
+r
+
+relationship, and other time
+
+, In an exaggerated eroticism disconn:
+
+C
+
+-
+
+!í
+
+alfectivity, which can reach tum into pervers
+
+sion
+
+Therefore
+
+L
+
+although h
+
+Extremely sexunl, the person of this chi
+
+r
+
+cter does not suppress hi
+
+emotion
+
+I
+
+l
+
+lack
+
+M sex: His erotic love, being so idealized, is almos
+
+1 impossible to a
+
+hieve
+
+and he
+
+confuses 1t on the
+
+one hand with admiring love
+
+and, on the other, it resulte in
+
+Dverexcitement"
+[2025-12-30T00:00:52.964346] TTS: converted output to speech

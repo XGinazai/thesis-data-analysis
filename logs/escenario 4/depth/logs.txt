@@ -1,0 +1,270 @@
+[2025-12-29T21:35:46.010670] ESP32: testConnection - starting
+[2025-12-29T21:35:47.753736] ESP32: testConnection - finished status=200
+[2025-12-29T21:35:50.793626] Depth model initialized. inputShape=[1, 518, 518, 3] outputShape=[1, 518, 518, 1]
+[2025-12-29T21:37:18.441206] ESP32: capture - starting
+[2025-12-29T21:37:22.493943] ESP32: capture - finished (25858 bytes)
+[2025-12-29T21:37:23.152404] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:37:36.907500] Depth estimation done. distance=0.3237765886178714 minDistance=74.46861538211041 globalMin=3.1992084980010986 globalMax=4.927059650421143
+[2025-12-29T21:37:36.953855] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:37:36.963981] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:37:36.977294] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:37:36.993300] TTS: converted output to speech
+[2025-12-29T21:37:49.917722] ESP32: capture - starting
+[2025-12-29T21:37:50.104665] ESP32: capture - finished (28675 bytes)
+[2025-12-29T21:37:50.617339] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:38:03.114199] Depth estimation done. distance=0.46292160158213447 minDistance=106.47196836389092 globalMin=3.203385829925537 globalMax=4.942276954650879
+[2025-12-29T21:38:03.139614] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:38:03.145947] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:38:03.173676] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:38:03.197811] TTS: converted output to speech
+[2025-12-29T21:38:06.888939] ESP32: capture - starting
+[2025-12-29T21:38:07.196473] ESP32: capture - finished (22181 bytes)
+[2025-12-29T21:38:07.586446] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:38:19.707815] Depth estimation done. distance=0.29924874881005337 minDistance=68.82721222631227 globalMin=3.109315872192383 globalMax=4.884511947631836
+[2025-12-29T21:38:19.744484] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:38:19.758207] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:38:19.768492] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:38:19.778020] TTS: converted output to speech
+[2025-12-29T21:38:21.570256] ESP32: capture - starting
+[2025-12-29T21:38:21.798967] ESP32: capture - finished (24920 bytes)
+[2025-12-29T21:38:22.151408] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:38:34.308369] Depth estimation done. distance=0.46536349556154954 minDistance=107.03360397915638 globalMin=3.202840566635132 globalMax=4.904287815093994
+[2025-12-29T21:38:34.313796] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:38:34.325387] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:38:34.334156] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:38:34.373814] TTS: converted output to speech
+[2025-12-29T21:38:35.855195] ESP32: capture - starting
+[2025-12-29T21:38:36.388077] ESP32: capture - finished (28174 bytes)
+[2025-12-29T21:38:36.755173] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:38:48.942225] Depth estimation done. distance=0.432154318585366 minDistance=99.39549327463418 globalMin=3.33209228515625 globalMax=4.889403820037842
+[2025-12-29T21:38:48.953020] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:38:48.956220] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:38:48.960687] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:38:48.968824] TTS: converted output to speech
+[2025-12-29T21:38:50.191173] ESP32: capture - starting
+[2025-12-29T21:38:50.475360] ESP32: capture - finished (26583 bytes)
+[2025-12-29T21:38:50.850416] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:39:03.015979] Depth estimation done. distance=0.4400598748346547 minDistance=101.21377121197057 globalMin=3.304011583328247 globalMax=4.865095138549805
+[2025-12-29T21:39:03.018930] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:39:03.059861] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:39:03.073300] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:39:03.079632] TTS: converted output to speech
+[2025-12-29T21:39:24.818465] ESP32: capture - starting
+[2025-12-29T21:39:25.108440] ESP32: capture - finished (28088 bytes)
+[2025-12-29T21:39:25.470816] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:39:37.713440] Depth estimation done. distance=0.4514803841077757 minDistance=103.8404883447884 globalMin=3.1789183616638184 globalMax=4.894007682800293
+[2025-12-29T21:39:37.722713] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:39:37.730102] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:39:37.745141] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:39:37.762696] TTS: converted output to speech
+[2025-12-29T21:39:39.920332] ESP32: capture - starting
+[2025-12-29T21:39:40.224755] ESP32: capture - finished (28007 bytes)
+[2025-12-29T21:39:40.584431] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:39:52.651374] Depth analysis: minValue=4.161983013153076 globalMin=3.222482919692993 globalMax=4.902246475219727
+82919692993 globalMax=4.902246475219727
+[2025-12-29T21:39:52.663238] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:39:52.666002] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:39:52.670535] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:39:52.679473] TTS: converted output to speech
+[2025-12-29T21:39:53.404247] ESP32: capture - starting
+[2025-12-29T21:39:53.821940] ESP32: capture - finished (26509 bytes)
+[2025-12-29T21:39:54.190237] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:40:06.546273] Depth estimation done. distance=0.49445148445920983 minDistance=113.72384142561826 globalMin=3.341001033782959 globalMax=4.902609348297119
+[2025-12-29T21:40:06.558217] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:40:06.563476] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:40:06.568617] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:40:06.576630] TTS: converted output to speech
+[2025-12-29T21:40:11.907018] ESP32: capture - starting
+[2025-12-29T21:40:12.426047] ESP32: capture - finished (27839 bytes)
+[2025-12-29T21:40:12.772913] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:40:25.092365] Depth estimation done. distance=0.4366598230891585 minDistance=100.43175931050645 globalMin=3.3784432411193848 globalMax=4.908541202545166
+[2025-12-29T21:40:25.103507] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:40:25.106680] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:40:25.114134] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:40:25.145270] TTS: converted output to speech
+[2025-12-29T21:40:26.609734] ESP32: capture - starting
+[2025-12-29T21:40:27.033053] ESP32: capture - finished (29004 bytes)
+[2025-12-29T21:40:27.413440] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:40:39.509291] Depth analysis: minValue=4.34016752243042 globalMin=3.260939836502075 globalMax=4.939479827880859
+836502075 globalMax=4.939479827880859
+[2025-12-29T21:40:39.521941] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:40:39.525896] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:40:39.530926] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:40:39.549206] TTS: converted output to speech
+[2025-12-29T21:41:03.120893] ESP32: capture - starting
+[2025-12-29T21:41:03.673464] ESP32: capture - finished (29051 bytes)
+[2025-12-29T21:41:04.088853] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:41:16.246398] Depth estimation done. distance=0.3665888624712247 minDistance=84.31543836838166 globalMin=3.25757098197937 globalMax=4.93611478805542
+[2025-12-29T21:41:16.256442] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:41:16.261486] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:41:16.277213] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:41:16.290424] TTS: converted output to speech
+[2025-12-29T21:41:18.153803] ESP32: capture - starting
+[2025-12-29T21:41:18.771561] ESP32: capture - finished (28979 bytes)
+[2025-12-29T21:41:19.204633] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:41:31.301549] Depth estimation done. distance=0.3405273980240153 minDistance=78.32130154552353 globalMin=3.2802929878234863 globalMax=4.9010210037231445
+[2025-12-29T21:41:31.311819] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:41:31.317126] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:41:31.324998] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:41:31.376439] TTS: converted output to speech
+[2025-12-29T21:41:32.647981] ESP32: capture - starting
+[2025-12-29T21:41:32.883956] ESP32: capture - finished (26784 bytes)
+[2025-12-29T21:41:33.295556] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:41:45.490916] Depth estimation done. distance=0.3192300334338032 minDistance=73.42290768977473 globalMin=3.4204506874084473 globalMax=4.958335876464844
+[2025-12-29T21:41:45.495138] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:41:45.505046] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:41:45.513488] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:41:45.560213] TTS: converted output to speech
+[2025-12-29T21:41:46.302765] ESP32: capture - starting
+[2025-12-29T21:41:46.454476] ESP32: capture - finished (26466 bytes)
+[2025-12-29T21:41:46.879672] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:41:58.985304] Depth analysis: minValue=4.546245098114014 globalMin=3.439221143722534 globalMax=5.03126859664917
+143722534 globalMax=5.03126859664917
+[2025-12-29T21:41:59.002373] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:41:59.005969] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:41:59.010667] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:41:59.019926] TTS: converted output to speech
+[2025-12-29T21:42:00.312187] ESP32: capture - starting
+[2025-12-29T21:42:00.538011] ESP32: capture - finished (26740 bytes)
+[2025-12-29T21:42:00.891343] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:42:12.923883] Depth estimation done. distance=0.2950950084082693 minDistance=67.87185193390194 globalMin=3.44594144821167 globalMax=5.008599281311035
+[2025-12-29T21:42:12.928534] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:42:12.936512] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:42:12.941391] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:42:12.950232] TTS: converted output to speech
+[2025-12-29T21:42:14.318138] ESP32: capture - starting
+[2025-12-29T21:42:14.641711] ESP32: capture - finished (27025 bytes)
+[2025-12-29T21:42:14.999466] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:42:27.154774] Depth estimation done. distance=0.31272670062917074 minDistance=71.92714114470927 globalMin=3.466181516647339 globalMax=5.03010892868042
+[2025-12-29T21:42:27.159792] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:42:27.166990] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:42:27.171336] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:42:27.177424] TTS: converted output to speech
+[2025-12-29T21:42:27.760463] ESP32: capture - starting
+[2025-12-29T21:42:28.244778] ESP32: capture - finished (27253 bytes)
+[2025-12-29T21:42:28.585247] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:42:40.612317] Depth analysis: minValue=4.572204113006592 globalMin=3.4586124420166016 globalMax=5.035586833953857
+420166016 globalMax=5.035586833953857
+[2025-12-29T21:42:40.618023] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:42:40.627396] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:42:40.634152] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:42:40.649422] TTS: converted output to speech
+[2025-12-29T21:42:41.720335] ESP32: capture - starting
+[2025-12-29T21:42:42.340876] ESP32: capture - finished (27503 bytes)
+[2025-12-29T21:42:42.705936] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:42:55.061076] Depth estimation done. distance=0.30482209172960306 minDistance=70.1090810978087 globalMin=3.513305425643921 globalMax=5.052628517150879
+[2025-12-29T21:42:55.070251] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:42:55.084610] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:42:55.092873] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:42:55.124928] TTS: converted output to speech
+[2025-12-29T21:42:57.358123] ESP32: capture - starting
+[2025-12-29T21:42:57.943] ESP32: capture - finished (27688 bytes)
+[2025-12-29T21:42:58.315563] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:43:10.463835] Depth estimation done. distance=0.29305015554330005 minDistance=67.401535774959 globalMin=3.484025239944458 globalMax=5.042511463165283
+[2025-12-29T21:43:10.474743] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:43:10.478065] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:43:10.491570] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:43:10.508538] TTS: converted output to speech
+[2025-12-29T21:45:06.227525] ESP32: capture - starting
+[2025-12-29T21:45:06.769132] ESP32: capture - finished (27551 bytes)
+[2025-12-29T21:45:07.178549] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:45:19.283443] Depth estimation done. distance=0.2960165981168177 minDistance=68.08381756686806 globalMin=3.487330913543701 globalMax=5.053372859954834
+[2025-12-29T21:45:19.294140] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:45:19.298799] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:45:19.307339] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:45:19.355881] TTS: converted output to speech
+[2025-12-29T21:45:22.361687] ESP32: capture - starting
+[2025-12-29T21:45:22.864044] ESP32: capture - finished (27070 bytes)
+[2025-12-29T21:45:23.220773] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:45:35.343911] Depth estimation done. distance=0.2901273831744383 minDistance=66.72929813012081 globalMin=3.5044944286346436 globalMax=5.048411846160889
+[2025-12-29T21:45:35.354765] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:45:35.362787] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:45:35.381242] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:45:35.394376] TTS: converted output to speech
+[2025-12-29T21:45:39.565195] ESP32: capture - starting
+[2025-12-29T21:45:39.981424] ESP32: capture - finished (28592 bytes)
+[2025-12-29T21:45:40.343216] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:45:52.464635] Depth estimation done. distance=0.30999100135870783 minDistance=71.2979303125028 globalMin=3.3713204860687256 globalMax=5.043416976928711
+[2025-12-29T21:45:52.474010] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:45:52.477696] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:45:52.491782] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:45:52.502922] TTS: converted output to speech
+[2025-12-29T21:45:54.930197] ESP32: capture - starting
+[2025-12-29T21:45:55.084576] ESP32: capture - finished (27024 bytes)
+[2025-12-29T21:45:55.461651] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:46:07.591350] Depth estimation done. distance=0.3562196937933001 minDistance=81.93052957245902 globalMin=3.403316020965576 globalMax=5.102388858795166
+[2025-12-29T21:46:07.608418] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:46:07.612611] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:46:07.617702] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:46:07.638057] TTS: converted output to speech
+[2025-12-29T21:46:10.593419] ESP32: capture - starting
+[2025-12-29T21:46:11.177497] ESP32: capture - finished (27763 bytes)
+[2025-12-29T21:46:11.547879] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T21:46:23.797109] Depth estimation done. distance=0.38903804616833526 minDistance=89.4787506187171 globalMin=3.4474241733551025 globalMax=5.096212387084961
+[2025-12-29T21:46:23.806997] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T21:46:23.810337] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T21:46:23.815745] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T21:46:23.836085] TTS: converted output to speech
+[2025-12-29T23:46:07.746499] ESP32: testConnection - starting
+[2025-12-29T23:46:16.677536] ESP32: testConnection - starting
+[2025-12-29T23:46:22.517420] ESP32: testConnection - error: ClientException with SocketException: Software caused connection abort (OS Error: Software caused connection abort, errno = 103), address = 192.168.4.1, port = 52090, uri=http://192.168.4.1/mode/mobile
+[2025-12-29T23:46:25.419199] ESP32: testConnection - starting
+[2025-12-29T23:46:27.166568] ESP32: testConnection - finished status=200
+[2025-12-29T23:46:29.535415] Depth model initialized. inputShape=[1, 518, 518, 3] outputShape=[1, 518, 518, 1]
+[2025-12-29T23:46:33.879149] ESP32: capture - starting
+[2025-12-29T23:46:34.151416] ESP32: capture - finished (16345 bytes)
+[2025-12-29T23:46:34.721779] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T23:46:48.332355] Depth estimation done. distance=0.28411252690640765 minDistance=65.34588118847375 globalMin=3.0626180171966553 globalMax=4.831612586975098
+[2025-12-29T23:46:48.362871] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T23:46:48.471460] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T23:46:48.492468] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T23:46:48.512326] TTS: converted output to speech
+[2025-12-29T23:46:50.556391] ESP32: capture - starting
+[2025-12-29T23:46:50.723897] ESP32: capture - finished (16669 bytes)
+[2025-12-29T23:46:51.314028] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T23:47:03.925170] Depth estimation done. distance=0.2958482954339129 minDistance=68.04510794979996 globalMin=3.0618674755096436 globalMax=4.801752090454102
+[2025-12-29T23:47:03.935814] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T23:47:04.009721] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T23:47:04.020094] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T23:47:04.047229] TTS: converted output to speech
+[2025-12-29T23:47:06.002348] ESP32: capture - starting
+[2025-12-29T23:47:06.317390] ESP32: capture - finished (22234 bytes)
+[2025-12-29T23:47:06.742137] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T23:47:18.838983] Depth estimation done. distance=0.43973382970130326 minDistance=101.13878083129974 globalMin=3.1277549266815186 globalMax=4.790708541870117
+[2025-12-29T23:47:18.849525] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T23:47:18.863214] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T23:47:18.879868] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T23:47:18.890456] TTS: converted output to speech
+[2025-12-29T23:47:20.716224] ESP32: capture - starting
+[2025-12-29T23:47:20.905305] ESP32: capture - finished (24480 bytes)
+[2025-12-29T23:47:21.281649] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T23:47:33.582569] Depth estimation done. distance=0.4368111166796401 minDistance=100.46655683631722 globalMin=3.196096420288086 globalMax=4.8059539794921875
+[2025-12-29T23:47:33.605177] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T23:47:33.609489] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T23:47:33.615724] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T23:47:33.624694] TTS: converted output to speech
+[2025-12-29T23:47:34.747829] ESP32: capture - starting
+[2025-12-29T23:47:34.992382] ESP32: capture - finished (25724 bytes)
+[2025-12-29T23:47:35.446457] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T23:47:47.651216] Depth analysis: minValue=4.076929092407227 globalMin=3.2473816871643066 globalMax=4.819024562835693
+871643066 globalMax=4.819024562835693
+[2025-12-29T23:47:47.658446] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T23:47:47.673838] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T23:47:47.681998] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T23:47:47.691411] TTS: converted output to speech
+[2025-12-29T23:47:49.197053] ESP32: capture - starting
+[2025-12-29T23:47:49.580225] ESP32: capture - finished (26478 bytes)
+[2025-12-29T23:47:49.968598] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T23:48:02.163722] Depth estimation done. distance=0.4448512618192608 minDistance=102.31579021842998 globalMin=3.214606523513794 globalMax=4.832126617431641
+[2025-12-29T23:48:02.169490] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T23:48:02.189576] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T23:48:02.209365] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T23:48:02.226639] TTS: converted output to speech
+[2025-12-29T23:48:03.040736] ESP32: capture - starting
+[2025-12-29T23:48:03.184644] ESP32: capture - finished (26908 bytes)
+[2025-12-29T23:48:03.549055] Running inference. input (518x518), expected output size: 268324
+[2025-12-29T23:48:15.669748] Depth estimation done. distance=0.45319792237691203 minDistance=104.23552214668976 globalMin=3.235913038253784 globalMax=4.847309112548828
+[2025-12-29T23:48:15.673986] HAPTIC: vibrateCollisionAlert - starting
+[2025-12-29T23:48:15.690546] HAPTIC: vibrateCollisionAlert - finished
+[2025-12-29T23:48:15.705227] TTS: converting output to speech - "Cuidado, riesgo de colision!"
+[2025-12-29T23:48:15.720119] TTS: converted output to speech
