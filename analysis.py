@@ -45,7 +45,7 @@ $TA - TB = duración de B$
 """
 from __future__ import annotations
 
-import csv
+import pandas as pd
 import re
 from datetime import datetime
 from pathlib import Path
@@ -247,8 +247,8 @@ def main(root: Optional[Path] = None) -> None:
 		root = Path(__file__).parent
 
 	out_path = root / "analysis.csv"
+	# header for CSV (exclude id_prueba here; it's added separately)
 	header = [
-		"id_prueba",
 		"timestamp",
 		"modo",
 		"tipo de evento",
@@ -303,26 +303,32 @@ def main(root: Optional[Path] = None) -> None:
 				rows_to_write.append(r_out)
 				id_counter += 1
 
-	# escribir CSV, con fallback si el archivo está bloqueado
+	# construir un DataFrame y ordenar por timestamp (más antiguo -> más nuevo)
+	df = pd.DataFrame(rows_to_write)
+	cols = ["id_prueba"] + header
+	# parsear timestamp y ordenar (NaT al final)
+	if "timestamp" in df.columns:
+		df["timestamp_parsed"] = pd.to_datetime(df["timestamp"], errors="coerce")
+		df = df.sort_values(by=["timestamp_parsed"], na_position="last", kind="mergesort")
+		df = df.reset_index(drop=True)
+		df["id_prueba"] = df.index + 1
+		df = df.drop(columns=["timestamp_parsed"])
+	else:
+		df = df.reset_index(drop=True)
+		df["id_prueba"] = df.index + 1
+
+	# asegurar el orden de columnas al escribir
+	cols = [c for c in cols if c in df.columns]
+
 	try:
 		target = out_path
-		with target.open("w", newline='', encoding="utf-8") as fh:
-			writer = csv.DictWriter(fh, fieldnames=header)
-			writer.writeheader()
-			for r in rows_to_write:
-				out = {k: r.get(k, "") for k in header}
-				writer.writerow(out)
+		df.to_csv(target, columns=cols, index=False, encoding="utf-8")
 	except PermissionError:
 		fallback = root / "analysis_out.csv"
-		with fallback.open("w", newline='', encoding="utf-8") as fh:
-			writer = csv.DictWriter(fh, fieldnames=header)
-			writer.writeheader()
-			for r in rows_to_write:
-				out = {k: r.get(k, "") for k in header}
-				writer.writerow(out)
+		df.to_csv(fallback, columns=cols, index=False, encoding="utf-8")
 		target = fallback
 
-	print(f"Wrote {len(rows_to_write)} rows to {target}")
+	print(f"Wrote {len(df)} rows to {target}")
 
 
 if __name__ == "__main__":
